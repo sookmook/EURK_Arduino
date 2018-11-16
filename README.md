@@ -8,7 +8,7 @@
 
 
 
-![](https://github.com/sookmook/EURK_Arduino/images/image1.jpg)
+![](https://raw.githubusercontent.com/sookmook/EURK_Arduino/master/images/image1.jpg)
 
 ## 개요
 
