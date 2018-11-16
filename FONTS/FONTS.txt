@@ -1,0 +1,823 @@
+FONTS COLLECTION (94.4.10)                                         by Kim Yunsoo
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+              ##########    ##########    ##########      ######
+                      ##       ##   ##    ##      ##    ##      ##
+                      ##       ##   ##    ##      ##    ##      ##
+                      ##       ##   ##    ##########      ######
+                                ##            ##
+             ############  ############  ############  ############
+
+              ##########    ##########                  ##########
+                      ##            ##                  ##      ##
+              ##########    ##########                  ##      ##
+              ##            ##                          ##########
+              ##########    ##########
+
+
+
+
+                          두번째 판 (1994년 4월 10일)
+
+
+
+
+
+
+
+
+
+
+                              한글 글꼴 수: 133 개
+
+                              영어 글꼴 수:  68 개
+
+                              삼보 특수문자: 15 개
+
+                              KSSM 특수문자: 10 개
+
+
+
+                              모두        : 226 개
+
+
+
+
+
+
+
+                                모은이 : 김윤수
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+                                 글꼴 모음 #002
+
+                                    - 목록 -
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+
+
+
+    1. 글꼴모음을 내며
+
+        >>> 회상
+
+        >>> 앞으로의 계획
+
+        >>> 여러분께 대한 저의 바램
+
+
+    2. 글꼴 사용의 제한
+
+
+    3. 이전판과 다른점
+
+        >>> 글꼴을 위한 프로그램
+
+        >>> 새로운 글꼴
+
+        >>> 고쳐진 글꼴
+
+
+    4. 글꼴 목록
+
+        >>> 한글 글꼴
+
+        >>> 영어 글꼴
+
+        >>> 삼보 특수 문자 글꼴
+
+        >>> KS, KSSM 그래픽 문자 글꼴
+
+        >>> 글꼴을 같이 사용하는 글꼴의 예
+
+
+    4. 연락처
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+                                 글꼴 모음 #002
+
+                             - 1. 글꼴모음을 내며 -
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+   >>> 회상 (첫번째 글꼴 모음에서) <<<
+
+      언젠가...
+
+      박규현님이  산에서 도깨비 글꼴을 쓸 수 있다며  제가 앤드를 위해 모았던
+    글꼴을 말씀하시는 걸 보았습니다.  그리고, 지금의 산에서는 그 글꼴들에 이
+    름을 나름대로 붙여서 기록시켜 두었더군요.  그것에 저희 형(김헌수)이 제게
+    '너도 너의 글꼴들에 이름을 붙여보라'고 말했죠.
+      1, 2년 사이에 제가 모아두었고 만들고 다듬었던 글꼴들이 몇몇 프로그램에
+    서 쓰인다는 것을 알게 된 것은 제게는 기쁜 일이었습니다. 그러나, 상상밖의
+    이름으로 제 글꼴을 맞이하게 된 것이 몹시 당황스러운 일이었기 때문에 저도
+    형의 말에 '나도 그럴 생각'이라는 대답을 하게 되었습니다.
+
+      일단 정리를 하기로 한 이상 전처럼 떠오르는데로 이름을 질 수도 없고, 제
+    것이 아닌 글꼴들도 있어서 그것도 쉬운 일은 아니었습니다. 그래서, 결국 많
+    은 글꼴들의 이름이 새로이 바뀌게 되었습니다.
+      그리고,  글꼴들 자체에도 손을 보면서, 문자의 순서가 잘못 되어 있는 것,
+    모양이 잘못 되어 있는 것 등을 모두 고치고,  비워져야 할 자리에 채워져 있
+    던 글자들도 모두 지워서 지금은 모든 것이 표준 문자 코드에 딱 들어맞는 글
+    꼴 모음을 만들었습니다.
+
+      지금은 전에 형을 통해서, 또는 김광찬 님의 헬로우를 통해서 올려졌던, 그
+    리고 산 에디터에 기록되어 있는,  품바 한글과 한글 리스터 htype 등에서 쓰
+    였던 글꼴들보다 조금은 더 나아진 이 글꼴들이  여러분에게 유용하게 쓰여질
+    수 있길 바라며 지루한 이야기를 마칩니다.
+
+
+   >>> 앞으로의 계획 <<<
+
+      앞에서도 밝혔듯이 저의 이러한 계획은  글꼴과 관련된 여러가지 혼돈을 막
+    기 위한 것이었습니다. 그렇기 때문에 애초에 이러한 활동을 계속하리라는 생
+    각을 가지고 있었다고는 하기 어렵습니다. 더구나, 저는 벡터 글꼴에 대한 관
+    심이 더 많았기 때문에 이러한 일에 대해서는 솔직히 회의적이기도 했습니다.
+    그러나,  아직은 이러한 비트맵 글꼴이 많이 쓰이고 있고,  따라서 이에 대한
+    혼란 역시 가시지 않고 있기 때문에 아직은 손을 놓지 않기로 했습니다.
+
+      하지만, 이러한 일을 아주 활발히 하기는 어려울 것입니다. 왜냐하면 저 역
+    시 여러분들처럼 프로그래머가 되려 하는 사람으로써,  글꼴에만 정신을 모을
+    수는 없기 때문입니다. 그리고, 또 그러한 것이 아니더라도 이것은 혼자 하기
+    에는 무척 벅찬 일이기도 합니다. 실제로 제가 아직 모으지 못한 글꼴도 부지
+    기수인 것을 여러분들도 잘 알고 계실겁니다.
+
+      그러나,  혹이나 여러분들께서  여기에 들어 있지 않은 다른 많은 글꼴들을
+    받을 수 있는 곳과 그 글꼴의 출처를 알려주시면 될 수 있는대로 그 글꼴들을
+    이 저의 글꼴 모음에 더해질 수 있도록 노력하겠습니다.  그리고, 저 역시 글
+    꼴 제작을 당분간은 계속하려 합니다.
+
+
+   >>> 바램 <<<
+
+      마지막으로 제가 여러분들께 바라는 것은 박규현님께서도 밝힌 그러한 일들
+    (글꼴의 이름이 바뀐다거나, 다른 사람의 명의를 얻는 일들)이 생기지 않도록
+    노력해주셨으면 하는 것입니다.
+
+      글꼴도 역시 프로그램의 일부입니다. 여우의 둔갑술처럼 프로그램의 소스와
+    글꼴들이 어느새 다른 사람의 것으로 둔갑하여  원래의 제작자에게 되돌아 오
+    는 일은 없어야 할 것입니다.
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+                                글꼴 모음  #002
+
+                            - 2. 글꼴 사용의 제한 -
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+>>> 상업용 사용이 제한되는 글꼴
+
+   영화체
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+                                글꼴 모음  #002
+
+                            - 3. 이전판과 다른점 -
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+<참고>
+
+   1. 삼보 특수 문자에서 0번, (126번,) 127번 글자는 사용하지 마십시오.
+
+   2. 산의 구버전 등  일부 프로그램에서는  도깨비 형식의 글꼴을  사용하는데
+      있어 다소 잘못이 있기 때문에 일부 글자가 이상하게 보일 수도 있읍니다.
+
+   3. 글꼴의 출처는  제가 그 글꼴을 얻은 프로그램  또는 사람으로 적었으므로
+      그 글꼴의 원래 출처와는 다를 수도 있읍니다. 이런 경우 옳은 정보를  주
+      시기 바랍니다.
+
+   4. 본인의 글꼴이 아닌 것은 그 명칭이 원래와 다소 차이가 있을 수도 있읍니
+      다. 이런 경우 옳은 정보를 주시기 바랍니다.
+
+   5. 삼보 특수 문자 코드를 가장 정확히 따르고 있는 글꼴들입니다.
+
+--------------------------------------------------------------------------------
+<주의 사항> - '#', '*', '+'표가 붙어있는 글꼴에 한 함
+
+   1. 제가 만든 글꼴의 파일이름은 바꾸지 말아 주시길 바랍니다.
+
+   2. 여기 있는 글꼴을 사용하실 때에는 출처를 밝혀 주십시오.
+
+   3. 본인의 허가 없이 상용 프로그램에서 사용하지 마십시오.
+
+--------------------------------------------------------------------------------
+ #: 순수 창작 글꼴
+
+ *: 다른 곳에서 힌트를 얻어 만든 글꼴
+
+ +: 다른 사람의 글꼴을 충분히 손본 글꼴
+
+ .: 다른 사람의 글꼴을 조금 다듬은 글꼴
+
+  : 다른 사람의 글꼴
+--------------------------------------------------------------------------------
+
+>>> 새로운 글꼴
+
+이름              파일이름       비고
+................................................................................
+
+<한글 글꼴>
+
+견샘물고딕체      HANGSMGO.HAN   ??? (    //    )
+궁서체            HANGS   .HAN   ??? (    //    <- 아래아 한글용 비트맵)
+디자인체          HANDG   .HAN   ??? (    //    <- 아래아 한글용 비트맵)
+
+강 명조체         PED     .HAN   강 에디터, 박호용
+
+수줍음체          HANSHY  .HAN   곽택종(HiTEL ID:saenaegi)
+청개구리체       .HANFROG .HAN   곽택종 (글꼴 형식 차이로 변형)
+키다리체          HANKDR  .HAN   곽택종
+
+빨래체            HANHO   .HAN   김기정
+전서체1          .HANJS1  .HAN   김기정
+
+흘림체            HANCH   .HAN   김수구
+
+파도체            HPADO   .HAN   김영석(HiTELID:eleman)
+
+---               HANKYH  .HAN   김영화(HiTEL ID:kyh242)
+
+가는달꼴          H02     .HAN   김중태(HiTEL ID:hangul), 이야기 6.0
+굵은달꼴          H01     .HAN   김중태
+대나무꼴          H14     .HAN   김중태
+둥근모꼴          H04     .HAN   김중태
+뫼꼴              H06     .HAN   김중태
+버금달꼴          H03     .HAN   김중태
+뻗음꼴            H09     .HAN   김중태
+삐침꼴            H11     .HAN   김중태
+작은삐침꼴        H12     .HAN   김중태
+중태세모꼴        H08     .HAN   김중태
+짧은둥근모꼴      H05     .HAN   김중태
+짧은뫼꼴          H07     .HAN   김중태
+짧은뻗음꼴        H10     .HAN   김중태
+포갬꼴            H15     .HAN   김중태
+풀잎꼴            H13     .HAN   김중태
+
+소라체            HANSORA .HAN   남정우(HiTEL ID:amuguna)
+
+도깨비 디나루     HANKBC  .HAN   도깨비 한글 3.30, 조춘형
+
+강철체            HANIRON .HAN   박호성(HiTEL ID: p3h1s4)
+강철체1          .HANIRON1.HAN   박호성
+강철체2           HANIRON1.HAN   박호성
+
+---               A_FONT  .HAN   서용원(HiTEL ID:yongwon)
+
+그림체            HANGRIM .HAN   서정호
+
+모란체            HANMORAN.HAN   선동술
+
+안샘체            HANANSAM.HAN   송성훈(Dentist로 HiTEL에)
+
+신선명조체        HANSSMJ .HAN   신동선(HiTEL ID:shin1234)
+신동선 디나루체   HANDINA .HAN   신동선
+신동선 세나루체   HANSENA .HAN   신동선
+
+가는샘물          HANGNSM .HAN   유승무(HiTEL ID:ysmoo)
+굵은샘물          HANGSM  .HAN   유승무
+큰새고딕체        HANSG   .HAN   유승무
+
+긴고딕체          GG      .HAN   윤희옥(HiTEL ID:13906526)
+소망체            SOMANG  .HAN   윤희옥
+희망체            HEEMANG .HAN   윤희옥
+
+긴샘체            HANGINSM.HAN   이종훈
+궁서흘림체        HANGHS  .HAN   이종훈 (천리안 한/컴)
+
+가는가을 한글체   HPRCS   .HAN   이확영(HiTEL ID:TELETALK), 프린세스 메이커
+이야기고딕체      HIYGGD2 .HAN   이확영, 이야기 굵은체 변형
+
+영화체            HANYH   .HAN   장영화(HiTEL ID:hayeun)
+   등록번호: 93-00112-SB-F-016, 과학기술원 시스템 공학연구소 폰트개발보급센터
+
+가로수체          HANGRS  .HAN   전영기(HiTEL ID:GAROSOO)
+
+---               TBG2    .HAN   태백 한글
+---               TBG4    .HAN   태백 한글
+태백 훈민정음체   TBHM    .HAN   태백 한글
+
+---               APPLE00 .HAN   TESTCOMM
+굵은 둥근고딕체   GOBO03  .HAN   TESTCOMM
+
+복선 명조체       H_DMYONG.HAN   하나리 C 라이브러리, 이 확영(HiTEL ID:TELETALK)
+soft              H_SOFT  .HAN   하나리 C 라이브러리
+
+붓펜체            HANHYES .HAN   하혜성(HiTEL ID:hahs)
+어린이체         .HANCHD  .HAN   하혜성 <- 서정호 <- 허인구
+혜성체            HANHCH  .HAN   하혜성
+
+탁체              TAK     .HAN   한기택(HiTEL ID:hankitak)
+
+낙서체            HANNAK  .HAN   허인구
+둥근고딕체        HANDGO  .HAN   허인구
+바다체            HANVADA .HAN   허인구
+바이트체          HANBYTE .HAN   허인구
+샘물고딕체        HANSMGO .HAN   허인구->곽택종
+샘물이쁜체       .HANSPN  .HAN   허인구
+손글이쁜체        HANIPN  .HAN   허인구->서정호
+예쁜손글체        HANEAPN .HAN   허인구
+정서체            HANPW   .HAN   허인구
+큰글고딕체       .HANBIGO .HAN   허인구
+한궁체            HANGUNG .HAN   허인구
+한메샘물체        HANHMSM .HAN   허인구
+허인구 안상수체   HANAHN  .HAN   허인구 <- 이야기 안상수체
+흘림고딕체        HANHLGO .HAN   허인구
+
+중간고딕체 2     *MIDDLE2 .HAN
+
+<영어 글꼴>
+
+---               A_FONT  .ENG   ??? (어떤 하이텔 사용자, 원래는 이야기용)
+
+영문굵은멋꼴      E1      .ENG   김중태(HiTEL ID:hangul), 이야기 6.0
+영문둥근모꼴      E2      .ENG   김중태
+영문버금멋꼴      E3      .ENG   김중태
+영문버금멋꼴2     E4_2    .ENG   김중태
+영문버금멋꼴3     E4_3    .ENG   김중태
+영문중태깍기꼴    E6      .ENG   김중태
+영문중태세모꼴    E8      .ENG   김중태
+영문틈멋꼴        E5      .ENG   김중태
+
+도깨비 ASCX      .ASCX    .ENG   도깨비 한글 3.30, 조춘형
+도깨비 ASCY      .ASCY    .ENG   도깨비 한글 3.30
+
+한글 이탤릭체     HANITL  .ENG   아래아 한글
+
+영문정형체       .EGOOD   .ENG   이확영(HiTEL ID:TELETALK), TsengHi ASCII 변형
+가는가을 영문체  .EPRCS   .ENG   이확영, 프린세스 메이커
+
+ATI VGA ASCII     ATIVGA  .ENG   ATI VGA Wonder BIOS
+
+EagleII ASCII     EAGLEII .ENG   EagleII BIOS
+
+Oak ASCII         OAK     .ENG   Oak VGA BIOS
+
+Trident ASCII     TRIDENT .ENG   Trident VGA BIOS
+
+TsengHi ASCII     TSENGHI .ENG   Tseng VGA/High RAM Dack BIOS
+
+태백             .TB      .SPC   태백 한글
+
+하나리           .HANARI  .SPC   하나리 C 라이브러리, 이 확영(HiTEL ID:TELETALK)
+
+<KS, KSSM 그래픽 문자 글꼴>
+
+강                PED     .KSG   강 에디터, 박호용
+
+사임당            SMD     .KSG   사임당 2.0 데모 버전
+
+산                SAN     .KSG   산 에디터
+
+이야기            IYG     .KSG   이야기
+
+한메              HM      .KSG   한메 한글
+
+Roman            *ROMAN   .KSG
+Roman Cleary     *ROMAN_C .KSG
+Roman Large      *ROMAN_L .KSG
+Serife           *SERIFE  .KSG   Windows의 Serife.fon을 응용
+Yun              *YUN     .KSG   (작업중)
+
+--------------------------------------------------------------------------------
+
+>>> 고쳐진 글꼴
+
+이름              파일이름       비고                          옛 파일이름
+................................................................................
+
+<한글 글꼴>
+
+굵은 파도체      .PADO_B  .HAN   이병도님 제공 (글꼴이름 변경) :SON1
+
+김인철체         .KIC     .HAN                                 :SAM
+김인철체 2       +KIC2    .HAN                                 :SAM2
+
+도깨비 디나루 2  +HANKBC2 .HAN                                 :DKBDINA
+
+태백필기체        TBPIL   .HAN   태백 한글 (원래 글꼴 입수)    :HANSON
+태백필기체 2     .TBPIL2  .HAN   (파일이름 변경)               :HANSON2
+
+신판본체         *PANBON  .HAN   (글꼴이름 변경)               :OULD
+신판본체 2       *PANBON2 .HAN   (글꼴이름 변경)               :OULD
+신판본체 3       *PANBON3 .HAN   (글꼴이름 변경)               :HOULD
+
+<영어 글꼴>
+
+한글 필기체      .HANSC   .ENG   (글꼴이름 변경)               :PIL1
+
+
+<삼보 특수 문자 글꼴>
+
+도깨비 특수 문자 .SPEC    .SPC   (글꼴명, 파일명, 제작자 변경) :NORMAL
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+                                글꼴 모음 #002
+
+                               - 4. 글꼴 목록 -
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+<참고>
+
+   1. 삼보 특수 문자에서 0번, (126번,) 127번 글자는 사용하지 마십시오.  DOS
+      에서 사용을 금하고 있는 코드와 겹치기 때문입니다.
+
+   2. 산(판번호 1.044 이하) 등의  일부 프로그램에서는  도깨비 형식의 글꼴을
+      사용하는데 있어 다소 잘못이 있기 때문에  일부 글자가 이상하게 보일 수
+      도 있습니다.
+
+   3. 글꼴의 출처는  제가 그 글꼴을 얻은 프로그램  또는 사람으로 적었으므로
+      그 글꼴의 원래 출처와는 다를 수도 있습니다. 이런 경우 옳은 정보를  주
+      시기 바랍니다.
+
+   4. 본인의 글꼴이 아닌 것은 그 명칭이 원래와 다소 차이가 있을 수도 있습니
+      다. 이런 경우 옳은 정보를 주시기 바랍니다.
+
+   5. 삼보 특수 문자 코드를 가장 정확히 따르고 있는 글꼴들입니다.
+
+   6. 글꼴의 나열 순서는 우선 출처별로 가나다, 알파벳 순,  그리고 맨 끝에는
+      저의 것이라고 할 수 있는 것들을 나열했으며, 또 각각은 다시 가나다, 알
+      파벳 순으로 나열되어 있습니다.
+
+--------------------------------------------------------------------------------
+
+<주의 사항> - '#', '*', '+'표가 붙어있는 글꼴에 한 함
+
+   1. 제가 만든 글꼴의 파일이름은 바꾸지 말아 주시길 바랍니다.
+
+   2. 여기 있는 글꼴을 사용하실 때에는 출처를 밝혀 주십시오.
+
+   3. 본인의 허가 없이 상용 프로그램에서 사용하지 마십시오.
+
+--------------------------------------------------------------------------------
+ #: 순수 창작 글꼴
+
+ *: 다른 곳에서 힌트를 얻어 만든 글꼴
+
+ +: 다른 사람의 글꼴을 충분히 손본 글꼴
+
+ .: 다른 사람의 글꼴을 조금 다듬은 글꼴
+
+  : 다른 사람의 글꼴
+--------------------------------------------------------------------------------
+이름              파일이름       비고                          옛 파일이름
+................................................................................
+
+<한글 글꼴>
+
+---               MY      .HAN   ???
+견샘물고딕체      HANGSMGO.HAN   ??? (아래아 한글 2.0용 글꼴 파일에서)
+궁서체            HANGS   .HAN   ??? (    //    <- 아래아 한글용 비트맵)
+디자인체          HANDG   .HAN   ???
+
+강 명조체         PED     .HAN   강 에디터, 박호용
+
+수줍음체          HANSHY  .HAN   곽택종(HiTEL ID:saenaegi)
+청개구리체       .HANFROG .HAN   곽택종 (글꼴 형식 차이로 변형)
+키다리체          HANKDR  .HAN   곽택종
+
+빨래체            HANHO   .HAN   김기정
+전서체1          .HANJS1  .HAN   김기정
+
+흘림체            HANCH   .HAN   김수구
+
+파도체            HPADO   .HAN   김영석(HiTEL ID:eleman)
+
+---               HANKYH  .HAN   김영화(HiTEL ID:kyh242)
+
+가는달꼴          H02     .HAN   김중태(HiTEL ID:hangul), 이야기 6.0
+굵은달꼴          H01     .HAN   김중태
+대나무꼴          H14     .HAN   김중태
+둥근모꼴          H04     .HAN   김중태
+뫼꼴              H06     .HAN   김중태
+버금달꼴          H03     .HAN   김중태
+뻗음꼴            H09     .HAN   김중태
+삐침꼴            H11     .HAN   김중태
+작은삐침꼴        H12     .HAN   김중태
+중태세모꼴        H08     .HAN   김중태
+짧은둥근모꼴      H05     .HAN   김중태
+짧은뫼꼴          H07     .HAN   김중태
+짧은뻗음꼴        H10     .HAN   김중태
+포갬꼴            H15     .HAN   김중태
+풀잎꼴            H13     .HAN   김중태
+
+소라체            HANSORA .HAN   남정우(HiTEL ID:amuguna)
+
+도깨비 고딕체     DKBGOTH .HAN   도깨비 한글
+도깨비 디나루     HANKBC  .HAN   도깨비 한글 3.30, 조춘형
+도깨비 디나루 2  +HANKBC2 .HAN                                 :DKBDINA
+
+---               HANSAM  .HAN   바람
+
+한석봉체         .SANHSB  .HAN   박규현(HiTEL ID:magicbk), 산  :HSB-844
+임꺽정체         .SANIGJ  .HAN   박규현, 산
+
+강철체            HANIRON .HAN   박호성(HiTEL ID: p3h1s4)
+강철체1          .HANIRON1.HAN   박호성, 전 버전의 강철체
+강철체2           HANIRON1.HAN   박호성
+
+삼보 고딕체       TGGOTH  .HAN   삼보 한글 카드                :TGCAR
+
+---               A_FONT  .HAN   서용원(HiTEL ID:yongwon)
+
+그림체            HANGRIM .HAN   서정호
+
+모란체            HANMORAN.HAN   선동술
+
+안샘체            HANANSAM.HAN   송성훈(Dentist로 HiTEL에)
+
+신선명조체        HANSSMJ .HAN   신동선(HiTEL ID:shin1234)
+신동선 디나루체   HANDINA .HAN   신동선
+신동선 세나루체   HANSENA .HAN   신동선
+
+한글 명조체      .HANMY   .HAN   아래아 한글                   :HANGUL
+손글씨체         .HANPL2  .HAN                                 :SON4
+
+가는샘물          HANGNSM .HAN   유승무(HiTEL ID:ysmoo)
+굵은샘물          HANGSM  .HAN   유승무
+큰새고딕체        HANSG   .HAN   유승무
+
+긴고딕체          GG      .HAN   윤희옥(HiTEL ID:13906526)
+소망체            SOMANG  .HAN   윤희옥
+희망체            HEEMANG .HAN   윤희옥
+
+사과체            APPLE   .HAN   이병도님(?, HiTEL ID: leebd)
+흘림체           .SON3    .HAN   이병도님 제공
+굵은 파도체      .PADO_B  .HAN   이병도님 제공                 :SON1
+
+굵은체            IYG     .HAN   이야기                        :IFNT2
+이야기 삼벌식체   IYGSBS  .HAN   이야기                        :ISAM
+이야기 안상수체   IYGASS  .HAN   이야기 (김인철체 변형 추정)   :IAN
+굵은체 2         +IYG2    .HAN                                 :II
+굵은체 3         +IYG_Y   .HAN                                 :I-Y
+
+긴샘체            HANGINSM.HAN   이종훈
+궁서흘림체        HANGHS  .HAN   이종훈 (천리안 한/컴)
+
+가는가을 한글체   HPRCS   .HAN   이확영(HiTEL ID:TELETALK), 프린세스 메이커
+이야기고딕체      HIYGGD2 .HAN   이확영, 이야기 굵은체 변형
+
+영화체            HANYH   .HAN   장영화(HiTEL ID:hayeun)
+   등록번호: 93-00112-SB-F-016, 과학기술원 시스템 공학연구소 폰트개발보급센터
+
+가로수체          HANGRS  .HAN   전영기(HiTEL ID:GAROSOO)
+
+---               TBG2    .HAN   태백 한글
+---               TBG4    .HAN   태백 한글
+태백 필기체       TBPIL   .HAN   태백 한글                     :HANSON
+태백 훈민정음체   TBGHM   .HAN   태백 한글
+태백 필기체 2    .TBPIL2  .HAN                                 :HANSON2
+
+---               APPLE00 .HAN   TESTCOMM, 이병도(HiTEL ID: leebd)
+굵은 고딕체       GOBO00  .HAN   TESTCOMM
+굵은 둥근고딕체   GOBO03  .HAN   TESTCOMM
+가는 고딕체       GOTH00  .HAN   TESTCOMM
+보통체            NORMAL  .HAN   TESTCOMM
+반명조체          MYNR00  .HAN   TESTCOMM
+굵은 장식고딕체   GMBO00  .HAN   TESTCOMM
+가는 장식고딕체   GMTH00  .HAN   TESTCOMM
+굵은 샘물체       SABO00  .HAN   TESTCOMM
+가는김인철체      SATH00  .HAN   TESTCOMM
+보통체 2         .NORMAL2 .HAN   TESTCOMM
+김인철체         .KIC     .HAN                                 :SAM
+김인철체 2       +KIC2    .HAN                                 :SAM2
+장식 고딕체      +GAM     .HAN
+
+복선 명조체       H_DMYONG.HAN   하나리 C 라이브러리, 이 확영(HiTEL ID:TELETALK)
+soft              H_SOFT  .HAN   하나리 C 라이브러리
+
+붓펜체            HANHYES .HAN   하혜성(HiTEL ID:hahs)
+어린이체         .HANCHD  .HAN   하혜성 <- 서정호 <- 허인구
+혜성체            HANHCH  .HAN   하혜성
+
+탁체              TAK     .HAN   한기택(HiTEL ID:hankitak)
+
+한메 고딕체       HMGOTH  .HAN   한메 한글                     :GOTHIC,HM-GOTH
+한메 가는 본문체  HMSYSTH .HAN   한메 한글                     :HANME-TH,HM-THIN
+한메 본문체       HMSYS   .HAN   한메 한글                     :HANME
+한메 샘물체       HMSAM   .HAN   한메 한글                     :HM-SAM
+
+낙서체            HANNAK  .HAN   허인구
+둥근고딕체        HANDGO  .HAN   허인구
+바다체            HANVADA .HAN   허인구
+바이트체          HANBYTE .HAN   허인구
+샘물고딕체        HANSMGO .HAN   허인구->곽택종
+샘물이쁜체       .HANSPN  .HAN   허인구
+손글이쁜체        HANIPN  .HAN   허인구->서정호
+예쁜손글체        HANEAPN .HAN   허인구
+정서체            HANPW   .HAN   허인구
+큰글고딕체       .HANBIGO .HAN   허인구
+한궁체            HANGUNG .HAN   허인구
+한메샘물체        HANHMSM .HAN   허인구
+허인구 안상수체   HANAHN  .HAN   허인구 <- 이야기 안상수체
+흘림고딕체        HANHLGO .HAN   허인구
+
+꼬마체           *MINI    .HAN                                 :HMAPPLE
+기울임체         #SLEEP   .HAN
+기울임체 2       #SLEEP2  .HAN
+달리만듦체       *DALLY   .HAN   달리만듦 로고
+디나루체         *DINARU  .HAN   네모 꽉찬 고딕체              :GOTH
+명조체           *HAN     .HAN   더 세밀하게 만들어진 글꼴
+샘명조체         *SAMM    .HAN                                 :SAM-M
+서기 2400체      *AD24    .HAN
+스러짐체         *SLANT   .HAN
+중간고딕체       *MIDDLE  .HAN                                 :MINI
+중간고딕체 2     *MIDDLE2 .HAN
+신판본체         *PANBON  .HAN                                 :OULD
+신판본체 2       *PANBON2 .HAN                                 :OULD
+신판본체 3       *PANBON3 .HAN                                 :HOULD
+PC체             *PC      .HAN   퍼스널컴퓨터지의 옛 로고
+파울루스체       #PAULUS  .HAN
+폴체             #PAUL    .HAN
+키작은체         #LOW     .HAN                                 :CL
+
+<영어 글꼴>
+
+---               A_FONT  .ENG   ??? (어떤 하이텔 사용자, 원래는 이야기용)
+
+영문굵은멋꼴      E1      .ENG   김중태(HiTEL ID:hangul), 이야기 6.0
+영문둥근모꼴      E2      .ENG   김중태
+영문버금멋꼴      E3      .ENG   김중태
+영문버금멋꼴2     E4_2    .ENG   김중태
+영문버금멋꼴3     E4_3    .ENG   김중태
+영문중태깍기꼴    E6      .ENG   김중태
+영문중태세모꼴    E8      .ENG   김중태
+영문틈멋꼴        E5      .ENG   김중태
+
+Mini 1           .MINI1   .ENG   김헌수 (형)
+Small            .SMALL   .ENG   김헌수 (형)
+
+도깨비 ASCX      .ASCX    .ENG   도깨비 한글 3.30, 조춘형
+도깨비 ASCY      .ASCY    .ENG   도깨비 한글 3.30
+
+MRol             .MROL    .ENG   Many ROLs
+
+San              .SAN     .ENG   산
+
+한글 이탤릭체     HANITL  .ENG   아래아 한글
+한글 필기체      .HANSC   .ENG   아래아 한글                   :PIL1
+Script 2         .HANSC2  .ENG   (굵은)                        :PIL1A
+Script 2 Thin    +HANSC2T .ENG   (가는)                        :PIL1-SCR
+
+이야기 굵은고딕  .IYGGGO  .ENG   이야기
+이야기 진로만체  .IYGJROM .ENG   이야기
+
+영문정형체       .EGOOD   .ENG   이확영(HiTEL ID:TELETALK), TsengHi ASCII 변형
+가는가을 영문체  .EPRCS   .ENG   이확영, 프린세스 메이커
+
+한메 Countdown   .HMCNT   .ENG   한메 한글                     :CNTDOWN
+한메 Microgramma .HMMCR   .ENG   한메 한글                     :MICROGRM
+한메 Script      .HMSCR   .ENG   한메 한글                     :SCRIPT
+한메 Standard 1  .HMSTD1  .ENG   한메 한글                     :STANDRD1
+한메 Standard 2  .HMSTD2  .ENG   한메 한글                     :STANDRD2
+한메 Default     .HMDEF   .ENG   한메 한글                     :HANME
+한메             +HM_Y    .ENG                                 :HANME-Y
+Microgramma 2    +HMMCR_Y .ENG                                 :MCRGRM-Y
+Standard 3       .HMSTD3  .ENG                                 :HM-STD
+
+ATI Ascii         ATIVGA  .ENG   ATI VGA Wonder BIOS
+
+EagleII ASCII     EAGLEII .ENG   EagleII BIOS
+
+Oak ASCII         OAK     .ENG   Oak VGA BIOS
+
+Trident ASCII     TRIDENT .ENG   Trident VGA BIOS
+
+TsengHi ASCII     TSENGHI .ENG   Tseng VGA/High RAM Dack BIOS
+
+Normal           .NORMAL  .ENG   TESTCOMM
+Roman Normal     .RONR00  .ENG   TESTCOMM
+Roman Bold       .ROBO00  .ENG   TESTCOMM (굵은)
+Roman Thin       .ROTH00  .ENG   TESTCOMM (가는)
+Robo             .ROBO    .ENG   Roman Bold
+
+Trident ASCII     TRIDENT .ENG   Trident VGA BIOS
+
+AD 2400          *AD24    .ENG   AD 2400 (글꼴 높이: 8도트)
+AD 2400.10       *AD24_10 .ENG   AD 2400 (글꼴 높이: 10도트)   :AD24
+Big              *BIG     .ENG
+Bold             *BOLD    .ENG
+Bold Normal      *BOLDNR  .ENG
+Byte             *BYTE    .ENG
+Byte 10          *BYTE10  .ENG                                 :BYTE
+Count            *COUNT   .ENG
+Eart             #EART    .ENG   (글꼴 높이: 8도트)
+Eart 10          #EART10  .ENG   (글꼴 높이: 10도트)           :EART
+Flow             *FLOW    .ENG   (글꼴 높이: 8도트)
+Flow 10          *FLOW10  .ENG   (글꼴 높이: 10도트)           :FLOW
+Inbold           #INBOLD  .ENG
+Roman Large      *ROMAN_L .ENG                                 :BIG
+Little           #LITTLE  .ENG
+Middle           *MIDDLE  .ENG
+Mini             *MINI    .ENG
+Royal            *ROYAL   .ENG   Royal II DLX (Apple II+ 호환)
+Script           *SCR     .ENG   (가는)                        :PIL2-SCR
+Script Bold      *SCRBOLD .ENG   (굵은)                        :PIL2
+Semi-Roman       *SEMIROM .ENG                                 :BIG
+Slant            *SLANT   .ENG
+System           *SYS     .ENG
+Utopia           *UTOPIA  .ENG                                 :GM
+X-Small          *XSMALL  .ENG
+Zeo              #ZEO     .ENG
+Zorro            #ZORRO   .ENG
+
+<삼보 특수 문자 글꼴>
+
+Bold             .BOLD    .SPC   김헌수 (형)
+
+도깨비 특수 문자 .SPEC    .SPC   도깨비 한글 3.30, 조춘형      :NORMAL
+
+태백             .TB      .SPC   태백 한글
+
+이야기           +IYG_Y   .SPC   표준 삼보 코드에 맞춰 바꿈    :I-Y
+
+하나리           .HANARI  .SPC   하나리 C 라이브러리, 이 확영(HiTEL ID:TELETALK)
+
+한메             .HM      .SPC   한메 한글                     :HANME
+
+Bold 2           *BOLD2   .SPC   파이프 형 괘선
+Bold 3           *BOLD3   .SPC   부드럽고 굵은 괘선
+Gray 1           #GRAY1   .SPC                                 :YY
+Gray 2           *GRAY2   .SPC                                 :GRAY
+Shadow           *SHADOW  .SPC   그림자체                      :S-BLOCK
+System           *SYS     .SPC   기본 형태
+KS-line          *KSLINE  .SPC   KS그래픽 문자형 괘선          :YG
+Smooth           #SMOOTH  .SPC   부드러운 괘선                 :YUN
+Zorro            #ZORRO   .SPC                                 :YY2,PIL
+
+<KS, KSSM 그래픽 문자 글꼴>
+
+강                PED     .KSG   강 에디터, 박호용
+
+사임당            SMD     .KSG   사임당 2.0 데모 버전
+
+산                SAN     .KSG   산
+
+이야기            IYG     .KSG   이야기
+
+한메              HM      .KSG   한메 한글
+
+Roman            *ROMAN   .KSG
+Roman Cleary     *ROMAN_C .KSG
+Roman Large      *ROMAN_L .KSG
+Serife           *SERIFE  .KSG   Windows의 Serife.fon을 응용
+Yun              *YUN     .KSG   (작업중)
+
+--------------------------------------------------------------------------------
+<같이 사용하는 글꼴의 예>
+
+   1. 명조체              Roman Normal
+
+   2. 김인철체            Robo
+
+   3. 서기 2400           AD 2400.10
+
+   4. 스러짐체            Slant
+
+   5. 임꺽정체            San
+
+   6. 이야기 굵은체       이야기 굵은 고딕
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+   >>> 연락처 <<<
+
+   하이텔 ID: pisces
+
+   충남대학교 자연과학대학
+   전산학과 92학번,
+   김윤수가 올렸습니다.
+
+   그리고, 하숙생이므로 주소와 전화번호는 밝히지 않겠습니다.
+
+--------------------------------------------------------------------------------
+                                                                - 유성에서 -
+--------------------------------------------------------------------------------
+
+
