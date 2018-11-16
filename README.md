@@ -52,7 +52,7 @@
 
 
 
-![](https://lh6.googleusercontent.com/dUtE1yGQUdo9LbgAWTdrWebFEJIQVgJgP63wVJN736AnImXaGQHWUyRKvIQXFxSwPVgVQibdaDtWzmK8LQsltaUGJd2Ah2ViZVu-46dRiAXHO-f-qohHFcMidU9GRP7oP6WlqB2O)
+![](https://raw.githubusercontent.com/sookmook/EURK_Arduino/master/images/image1.jpg)
 
 ## 먼저 설치해야 하는 라이브러리
 
