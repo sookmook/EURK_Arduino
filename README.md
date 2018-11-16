@@ -52,7 +52,7 @@
 
 
 
-![](https://raw.githubusercontent.com/sookmook/EURK_Arduino/master/images/image1.jpg)
+![](https://raw.githubusercontent.com/sookmook/EURK_Arduino/master/images/image2.jpg)
 
 ## 먼저 설치해야 하는 라이브러리
 
