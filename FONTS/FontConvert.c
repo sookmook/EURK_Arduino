@@ -1,3 +1,10 @@
+/*
+  한글 라이브러리 '어우러기' 아두이노 버전 1.0을 위한 폰트 변환기
+  배포 : 숙묵미래정보재단 ( http://sookmook.org )
+  만든 사람 : 숙묵 지영민 ( mailto://sookmook@sookmook.org )
+           feat. 안병윤 ( mailto://hayansea@sookmook.org )
+  만든 날짜 : 2018년 4월 24일
+*/
 
 #include <stdio.h>
 #include <stdlib.h>

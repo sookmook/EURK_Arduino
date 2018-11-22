@@ -1,7 +1,9 @@
 /*
   한글 라이브러리 '어우러기' 아두이노 버전 1.0
-  설명 : OLED 디스플레이를 사용하는 아두이노 프로그램에서 한글 출력을 자유롭게 하기 위해 만들어졌다.
-  사용 라이브러리 : Adafruit에서 배포한 OLED 디스플레이용 라이브러리인 Adafruit_GFX, Adafruit_SSD1306
+  설명 : OLED 디스플레이를 사용하는 아두이노 프로그램에서 한글 출력을 자유롭게 하기 위해
+         만들어졌다.
+  사용 라이브러리 : Adafruit에서 배포한 OLED 디스플레이용 라이브러리인
+                    Adafruit_GFX, Adafruit_SSD1306
   사용 방법 : 모든 (세 가지) 라이브러리를 '(사용자)/문서/Arduino/libraries' 폴더에 설치하고,
               소스 파일에서 EURK_Arduino.h 헤더 파일을 인클루드한 후에,
               디스플레이 상황에 맞춰 display 오브젝트를 생성하고 나서,
@@ -9,6 +11,7 @@
   배포 : 숙묵미래정보재단 ( http://sookmook.org )
   만든 사람 : 숙묵 지영민 ( mailto://sookmook@sookmook.org )
               feat. 안병윤 ( mailto://hayansea@sookmook.org )
+  만든 날짜 : 2018년 4월 24일
 */
 
 #ifndef __EURK_ARDUINO_H
