@@ -25,7 +25,7 @@ FONTS COLLECTION (94.4.10)                                         by Kim Yunsoo
 
 
 
-                          µÎ¹øÂ° ÆÇ (1994³â 4¿ù 10ÀÏ)
+                          ë‘ë²ˆì§¸ íŒ (1994ë…„ 4ì›” 10ì¼)
 
 
 
@@ -36,338 +36,338 @@ FONTS COLLECTION (94.4.10)                                         by Kim Yunsoo
 
 
 
-                              ÇÑ±Û ±Û²Ã ¼ö: 133 °³
+                              í•œê¸€ ê¸€ê¼´ ìˆ˜: 133 ê°œ
 
-                              ¿µ¾î ±Û²Ã ¼ö:  68 °³
+                              ì˜ì–´ ê¸€ê¼´ ìˆ˜:  68 ê°œ
 
-                              »ïº¸ Æ¯¼ö¹®ÀÚ: 15 °³
+                              ì‚¼ë³´ íŠ¹ìˆ˜ë¬¸ìž: 15 ê°œ
 
-                              KSSM Æ¯¼ö¹®ÀÚ: 10 °³
-
-
-
-                              ¸ðµÎ        : 226 °³
+                              KSSM íŠ¹ìˆ˜ë¬¸ìž: 10 ê°œ
 
 
+
+                              ëª¨ë‘        : 226 ê°œ
 
 
 
 
 
-                                ¸ðÀºÀÌ : ±èÀ±¼ö
 
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
 
-                                 ±Û²Ã ¸ðÀ½ #002
-
-                                    - ¸ñ·Ï -
+                                ëª¨ì€ì´ : ê¹€ìœ¤ìˆ˜
 
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 
+                                 ê¸€ê¼´ ëª¨ìŒ #002
 
-
-
-    1. ±Û²Ã¸ðÀ½À» ³»¸ç
-
-        >>> È¸»ó
-
-        >>> ¾ÕÀ¸·ÎÀÇ °èÈ¹
-
-        >>> ¿©·¯ºÐ²² ´ëÇÑ ÀúÀÇ ¹Ù·¥
-
-
-    2. ±Û²Ã »ç¿ëÀÇ Á¦ÇÑ
-
-
-    3. ÀÌÀüÆÇ°ú ´Ù¸¥Á¡
-
-        >>> ±Û²ÃÀ» À§ÇÑ ÇÁ·Î±×·¥
-
-        >>> »õ·Î¿î ±Û²Ã
-
-        >>> °íÃÄÁø ±Û²Ã
-
-
-    4. ±Û²Ã ¸ñ·Ï
-
-        >>> ÇÑ±Û ±Û²Ã
-
-        >>> ¿µ¾î ±Û²Ã
-
-        >>> »ïº¸ Æ¯¼ö ¹®ÀÚ ±Û²Ã
-
-        >>> KS, KSSM ±×·¡ÇÈ ¹®ÀÚ ±Û²Ã
-
-        >>> ±Û²ÃÀ» °°ÀÌ »ç¿ëÇÏ´Â ±Û²ÃÀÇ ¿¹
-
-
-    4. ¿¬¶ôÃ³
+                                    - ëª©ë¡ -
 
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 
-                                 ±Û²Ã ¸ðÀ½ #002
-
-                             - 1. ±Û²Ã¸ðÀ½À» ³»¸ç -
-
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
-
-   >>> È¸»ó (Ã¹¹øÂ° ±Û²Ã ¸ðÀ½¿¡¼­) <<<
-
-      ¾ðÁ¨°¡...
-
-      ¹Ú±ÔÇö´ÔÀÌ  »ê¿¡¼­ µµ±úºñ ±Û²ÃÀ» ¾µ ¼ö ÀÖ´Ù¸ç  Á¦°¡ ¾Øµå¸¦ À§ÇØ ¸ð¾Ò´ø
-    ±Û²ÃÀ» ¸»¾¸ÇÏ½Ã´Â °É º¸¾Ò½À´Ï´Ù.  ±×¸®°í, Áö±ÝÀÇ »ê¿¡¼­´Â ±× ±Û²Ãµé¿¡ ÀÌ
-    ¸§À» ³ª¸§´ë·Î ºÙ¿©¼­ ±â·Ï½ÃÄÑ µÎ¾ú´õ±º¿ä.  ±×°Í¿¡ ÀúÈñ Çü(±èÇå¼ö)ÀÌ Á¦°Ô
-    '³Êµµ ³ÊÀÇ ±Û²Ãµé¿¡ ÀÌ¸§À» ºÙ¿©º¸¶ó'°í ¸»ÇßÁÒ.
-      1, 2³â »çÀÌ¿¡ Á¦°¡ ¸ð¾ÆµÎ¾ú°í ¸¸µé°í ´Ùµë¾ú´ø ±Û²ÃµéÀÌ ¸î¸î ÇÁ·Î±×·¥¿¡
-    ¼­ ¾²ÀÎ´Ù´Â °ÍÀ» ¾Ë°Ô µÈ °ÍÀº Á¦°Ô´Â ±â»Û ÀÏÀÌ¾ú½À´Ï´Ù. ±×·¯³ª, »ó»ó¹ÛÀÇ
-    ÀÌ¸§À¸·Î Á¦ ±Û²ÃÀ» ¸ÂÀÌÇÏ°Ô µÈ °ÍÀÌ ¸÷½Ã ´çÈ²½º·¯¿î ÀÏÀÌ¾ú±â ¶§¹®¿¡ Àúµµ
-    ÇüÀÇ ¸»¿¡ '³ªµµ ±×·² »ý°¢'ÀÌ¶ó´Â ´ë´äÀ» ÇÏ°Ô µÇ¾ú½À´Ï´Ù.
-
-      ÀÏ´Ü Á¤¸®¸¦ ÇÏ±â·Î ÇÑ ÀÌ»ó ÀüÃ³·³ ¶°¿À¸£´Âµ¥·Î ÀÌ¸§À» Áú ¼öµµ ¾ø°í, Á¦
-    °ÍÀÌ ¾Æ´Ñ ±Û²Ãµéµµ ÀÖ¾î¼­ ±×°Íµµ ½¬¿î ÀÏÀº ¾Æ´Ï¾ú½À´Ï´Ù. ±×·¡¼­, °á±¹ ¸¹
-    Àº ±Û²ÃµéÀÇ ÀÌ¸§ÀÌ »õ·ÎÀÌ ¹Ù²î°Ô µÇ¾ú½À´Ï´Ù.
-      ±×¸®°í,  ±Û²Ãµé ÀÚÃ¼¿¡µµ ¼ÕÀ» º¸¸é¼­, ¹®ÀÚÀÇ ¼ø¼­°¡ Àß¸ø µÇ¾î ÀÖ´Â °Í,
-    ¸ð¾çÀÌ Àß¸ø µÇ¾î ÀÖ´Â °Í µîÀ» ¸ðµÎ °íÄ¡°í,  ºñ¿öÁ®¾ß ÇÒ ÀÚ¸®¿¡ Ã¤¿öÁ® ÀÖ
-    ´ø ±ÛÀÚµéµµ ¸ðµÎ Áö¿ö¼­ Áö±ÝÀº ¸ðµç °ÍÀÌ Ç¥ÁØ ¹®ÀÚ ÄÚµå¿¡ µü µé¾î¸Â´Â ±Û
-    ²Ã ¸ðÀ½À» ¸¸µé¾ú½À´Ï´Ù.
-
-      Áö±ÝÀº Àü¿¡ ÇüÀ» ÅëÇØ¼­, ¶Ç´Â ±è±¤Âù ´ÔÀÇ Çï·Î¿ì¸¦ ÅëÇØ¼­ ¿Ã·ÁÁ³´ø, ±×
-    ¸®°í »ê ¿¡µðÅÍ¿¡ ±â·ÏµÇ¾î ÀÖ´Â,  Ç°¹Ù ÇÑ±Û°ú ÇÑ±Û ¸®½ºÅÍ htype µî¿¡¼­ ¾²
-    ¿´´ø ±Û²Ãµéº¸´Ù Á¶±ÝÀº ´õ ³ª¾ÆÁø ÀÌ ±Û²ÃµéÀÌ  ¿©·¯ºÐ¿¡°Ô À¯¿ëÇÏ°Ô ¾²¿©Áú
-    ¼ö ÀÖ±æ ¹Ù¶ó¸ç Áö·çÇÑ ÀÌ¾ß±â¸¦ ¸¶Ä¨´Ï´Ù.
 
 
-   >>> ¾ÕÀ¸·ÎÀÇ °èÈ¹ <<<
 
-      ¾Õ¿¡¼­µµ ¹àÇûµíÀÌ ÀúÀÇ ÀÌ·¯ÇÑ °èÈ¹Àº  ±Û²Ã°ú °ü·ÃµÈ ¿©·¯°¡Áö È¥µ·À» ¸·
-    ±â À§ÇÑ °ÍÀÌ¾ú½À´Ï´Ù. ±×·¸±â ¶§¹®¿¡ ¾ÖÃÊ¿¡ ÀÌ·¯ÇÑ È°µ¿À» °è¼ÓÇÏ¸®¶ó´Â »ý
-    °¢À» °¡Áö°í ÀÖ¾ú´Ù°í´Â ÇÏ±â ¾î·Æ½À´Ï´Ù. ´õ±¸³ª, Àú´Â º¤ÅÍ ±Û²Ã¿¡ ´ëÇÑ °ü
-    ½ÉÀÌ ´õ ¸¹¾Ò±â ¶§¹®¿¡ ÀÌ·¯ÇÑ ÀÏ¿¡ ´ëÇØ¼­´Â ¼ÖÁ÷È÷ È¸ÀÇÀûÀÌ±âµµ Çß½À´Ï´Ù.
-    ±×·¯³ª,  ¾ÆÁ÷Àº ÀÌ·¯ÇÑ ºñÆ®¸Ê ±Û²ÃÀÌ ¸¹ÀÌ ¾²ÀÌ°í ÀÖ°í,  µû¶ó¼­ ÀÌ¿¡ ´ëÇÑ
-    È¥¶õ ¿ª½Ã °¡½ÃÁö ¾Ê°í ÀÖ±â ¶§¹®¿¡ ¾ÆÁ÷Àº ¼ÕÀ» ³õÁö ¾Ê±â·Î Çß½À´Ï´Ù.
+    1. ê¸€ê¼´ëª¨ìŒì„ ë‚´ë©°
 
-      ÇÏÁö¸¸, ÀÌ·¯ÇÑ ÀÏÀ» ¾ÆÁÖ È°¹ßÈ÷ ÇÏ±â´Â ¾î·Á¿ï °ÍÀÔ´Ï´Ù. ¿Ö³ÄÇÏ¸é Àú ¿ª
-    ½Ã ¿©·¯ºÐµéÃ³·³ ÇÁ·Î±×·¡¸Ó°¡ µÇ·Á ÇÏ´Â »ç¶÷À¸·Î½á,  ±Û²Ã¿¡¸¸ Á¤½ÅÀ» ¸ðÀ»
-    ¼ö´Â ¾ø±â ¶§¹®ÀÔ´Ï´Ù. ±×¸®°í, ¶Ç ±×·¯ÇÑ °ÍÀÌ ¾Æ´Ï´õ¶óµµ ÀÌ°ÍÀº È¥ÀÚ ÇÏ±â
-    ¿¡´Â ¹«Ã´ ¹÷Âù ÀÏÀÌ±âµµ ÇÕ´Ï´Ù. ½ÇÁ¦·Î Á¦°¡ ¾ÆÁ÷ ¸ðÀ¸Áö ¸øÇÑ ±Û²Ãµµ ºÎÁö
-    ±â¼öÀÎ °ÍÀ» ¿©·¯ºÐµéµµ Àß ¾Ë°í °è½Ç°Ì´Ï´Ù.
+        >>> íšŒìƒ
 
-      ±×·¯³ª,  È¤ÀÌ³ª ¿©·¯ºÐµé²²¼­  ¿©±â¿¡ µé¾î ÀÖÁö ¾ÊÀº ´Ù¸¥ ¸¹Àº ±Û²ÃµéÀ»
-    ¹ÞÀ» ¼ö ÀÖ´Â °÷°ú ±× ±Û²ÃÀÇ ÃâÃ³¸¦ ¾Ë·ÁÁÖ½Ã¸é µÉ ¼ö ÀÖ´Â´ë·Î ±× ±Û²ÃµéÀ»
-    ÀÌ ÀúÀÇ ±Û²Ã ¸ðÀ½¿¡ ´õÇØÁú ¼ö ÀÖµµ·Ï ³ë·ÂÇÏ°Ú½À´Ï´Ù.  ±×¸®°í, Àú ¿ª½Ã ±Û
-    ²Ã Á¦ÀÛÀ» ´çºÐ°£Àº °è¼ÓÇÏ·Á ÇÕ´Ï´Ù.
+        >>> ì•žìœ¼ë¡œì˜ ê³„íš
+
+        >>> ì—¬ëŸ¬ë¶„ê»˜ ëŒ€í•œ ì €ì˜ ë°”ëž¨
 
 
-   >>> ¹Ù·¥ <<<
+    2. ê¸€ê¼´ ì‚¬ìš©ì˜ ì œí•œ
 
-      ¸¶Áö¸·À¸·Î Á¦°¡ ¿©·¯ºÐµé²² ¹Ù¶ó´Â °ÍÀº ¹Ú±ÔÇö´Ô²²¼­µµ ¹àÈù ±×·¯ÇÑ ÀÏµé
-    (±Û²ÃÀÇ ÀÌ¸§ÀÌ ¹Ù²ï´Ù°Å³ª, ´Ù¸¥ »ç¶÷ÀÇ ¸íÀÇ¸¦ ¾ò´Â ÀÏµé)ÀÌ »ý±âÁö ¾Êµµ·Ï
-    ³ë·ÂÇØÁÖ¼ÌÀ¸¸é ÇÏ´Â °ÍÀÔ´Ï´Ù.
 
-      ±Û²Ãµµ ¿ª½Ã ÇÁ·Î±×·¥ÀÇ ÀÏºÎÀÔ´Ï´Ù. ¿©¿ìÀÇ µÐ°©¼úÃ³·³ ÇÁ·Î±×·¥ÀÇ ¼Ò½º¿Í
-    ±Û²ÃµéÀÌ ¾î´À»õ ´Ù¸¥ »ç¶÷ÀÇ °ÍÀ¸·Î µÐ°©ÇÏ¿©  ¿ø·¡ÀÇ Á¦ÀÛÀÚ¿¡°Ô µÇµ¹¾Æ ¿À
-    ´Â ÀÏÀº ¾ø¾î¾ß ÇÒ °ÍÀÔ´Ï´Ù.
+    3. ì´ì „íŒê³¼ ë‹¤ë¥¸ì 
+
+        >>> ê¸€ê¼´ì„ ìœ„í•œ í”„ë¡œê·¸ëž¨
+
+        >>> ìƒˆë¡œìš´ ê¸€ê¼´
+
+        >>> ê³ ì³ì§„ ê¸€ê¼´
+
+
+    4. ê¸€ê¼´ ëª©ë¡
+
+        >>> í•œê¸€ ê¸€ê¼´
+
+        >>> ì˜ì–´ ê¸€ê¼´
+
+        >>> ì‚¼ë³´ íŠ¹ìˆ˜ ë¬¸ìž ê¸€ê¼´
+
+        >>> KS, KSSM ê·¸ëž˜í”½ ë¬¸ìž ê¸€ê¼´
+
+        >>> ê¸€ê¼´ì„ ê°™ì´ ì‚¬ìš©í•˜ëŠ” ê¸€ê¼´ì˜ ì˜ˆ
+
+
+    4. ì—°ë½ì²˜
 
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 
-                                ±Û²Ã ¸ðÀ½  #002
+                                 ê¸€ê¼´ ëª¨ìŒ #002
 
-                            - 2. ±Û²Ã »ç¿ëÀÇ Á¦ÇÑ -
-
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
-
->>> »ó¾÷¿ë »ç¿ëÀÌ Á¦ÇÑµÇ´Â ±Û²Ã
-
-   ¿µÈ­Ã¼
+                             - 1. ê¸€ê¼´ëª¨ìŒì„ ë‚´ë©° -
 
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 
-                                ±Û²Ã ¸ðÀ½  #002
+   >>> íšŒìƒ (ì²«ë²ˆì§¸ ê¸€ê¼´ ëª¨ìŒì—ì„œ) <<<
 
-                            - 3. ÀÌÀüÆÇ°ú ´Ù¸¥Á¡ -
+      ì–¸ì  ê°€...
+
+      ë°•ê·œí˜„ë‹˜ì´  ì‚°ì—ì„œ ë„ê¹¨ë¹„ ê¸€ê¼´ì„ ì“¸ ìˆ˜ ìžˆë‹¤ë©°  ì œê°€ ì•¤ë“œë¥¼ ìœ„í•´ ëª¨ì•˜ë˜
+    ê¸€ê¼´ì„ ë§ì”€í•˜ì‹œëŠ” ê±¸ ë³´ì•˜ìŠµë‹ˆë‹¤.  ê·¸ë¦¬ê³ , ì§€ê¸ˆì˜ ì‚°ì—ì„œëŠ” ê·¸ ê¸€ê¼´ë“¤ì— ì´
+    ë¦„ì„ ë‚˜ë¦„ëŒ€ë¡œ ë¶™ì—¬ì„œ ê¸°ë¡ì‹œì¼œ ë‘ì—ˆë”êµ°ìš”.  ê·¸ê²ƒì— ì €í¬ í˜•(ê¹€í—Œìˆ˜)ì´ ì œê²Œ
+    'ë„ˆë„ ë„ˆì˜ ê¸€ê¼´ë“¤ì— ì´ë¦„ì„ ë¶™ì—¬ë³´ë¼'ê³  ë§í–ˆì£ .
+      1, 2ë…„ ì‚¬ì´ì— ì œê°€ ëª¨ì•„ë‘ì—ˆê³  ë§Œë“¤ê³  ë‹¤ë“¬ì—ˆë˜ ê¸€ê¼´ë“¤ì´ ëª‡ëª‡ í”„ë¡œê·¸ëž¨ì—
+    ì„œ ì“°ì¸ë‹¤ëŠ” ê²ƒì„ ì•Œê²Œ ëœ ê²ƒì€ ì œê²ŒëŠ” ê¸°ìœ ì¼ì´ì—ˆìŠµë‹ˆë‹¤. ê·¸ëŸ¬ë‚˜, ìƒìƒë°–ì˜
+    ì´ë¦„ìœ¼ë¡œ ì œ ê¸€ê¼´ì„ ë§žì´í•˜ê²Œ ëœ ê²ƒì´ ëª¹ì‹œ ë‹¹í™©ìŠ¤ëŸ¬ìš´ ì¼ì´ì—ˆê¸° ë•Œë¬¸ì— ì €ë„
+    í˜•ì˜ ë§ì— 'ë‚˜ë„ ê·¸ëŸ´ ìƒê°'ì´ë¼ëŠ” ëŒ€ë‹µì„ í•˜ê²Œ ë˜ì—ˆìŠµë‹ˆë‹¤.
+
+      ì¼ë‹¨ ì •ë¦¬ë¥¼ í•˜ê¸°ë¡œ í•œ ì´ìƒ ì „ì²˜ëŸ¼ ë– ì˜¤ë¥´ëŠ”ë°ë¡œ ì´ë¦„ì„ ì§ˆ ìˆ˜ë„ ì—†ê³ , ì œ
+    ê²ƒì´ ì•„ë‹Œ ê¸€ê¼´ë“¤ë„ ìžˆì–´ì„œ ê·¸ê²ƒë„ ì‰¬ìš´ ì¼ì€ ì•„ë‹ˆì—ˆìŠµë‹ˆë‹¤. ê·¸ëž˜ì„œ, ê²°êµ­ ë§Ž
+    ì€ ê¸€ê¼´ë“¤ì˜ ì´ë¦„ì´ ìƒˆë¡œì´ ë°”ë€Œê²Œ ë˜ì—ˆìŠµë‹ˆë‹¤.
+      ê·¸ë¦¬ê³ ,  ê¸€ê¼´ë“¤ ìžì²´ì—ë„ ì†ì„ ë³´ë©´ì„œ, ë¬¸ìžì˜ ìˆœì„œê°€ ìž˜ëª» ë˜ì–´ ìžˆëŠ” ê²ƒ,
+    ëª¨ì–‘ì´ ìž˜ëª» ë˜ì–´ ìžˆëŠ” ê²ƒ ë“±ì„ ëª¨ë‘ ê³ ì¹˜ê³ ,  ë¹„ì›Œì ¸ì•¼ í•  ìžë¦¬ì— ì±„ì›Œì ¸ ìžˆ
+    ë˜ ê¸€ìžë“¤ë„ ëª¨ë‘ ì§€ì›Œì„œ ì§€ê¸ˆì€ ëª¨ë“  ê²ƒì´ í‘œì¤€ ë¬¸ìž ì½”ë“œì— ë”± ë“¤ì–´ë§žëŠ” ê¸€
+    ê¼´ ëª¨ìŒì„ ë§Œë“¤ì—ˆìŠµë‹ˆë‹¤.
+
+      ì§€ê¸ˆì€ ì „ì— í˜•ì„ í†µí•´ì„œ, ë˜ëŠ” ê¹€ê´‘ì°¬ ë‹˜ì˜ í—¬ë¡œìš°ë¥¼ í†µí•´ì„œ ì˜¬ë ¤ì¡Œë˜, ê·¸
+    ë¦¬ê³  ì‚° ì—ë””í„°ì— ê¸°ë¡ë˜ì–´ ìžˆëŠ”,  í’ˆë°” í•œê¸€ê³¼ í•œê¸€ ë¦¬ìŠ¤í„° htype ë“±ì—ì„œ ì“°
+    ì˜€ë˜ ê¸€ê¼´ë“¤ë³´ë‹¤ ì¡°ê¸ˆì€ ë” ë‚˜ì•„ì§„ ì´ ê¸€ê¼´ë“¤ì´  ì—¬ëŸ¬ë¶„ì—ê²Œ ìœ ìš©í•˜ê²Œ ì“°ì—¬ì§ˆ
+    ìˆ˜ ìžˆê¸¸ ë°”ë¼ë©° ì§€ë£¨í•œ ì´ì•¼ê¸°ë¥¼ ë§ˆì¹©ë‹ˆë‹¤.
+
+
+   >>> ì•žìœ¼ë¡œì˜ ê³„íš <<<
+
+      ì•žì—ì„œë„ ë°í˜”ë“¯ì´ ì €ì˜ ì´ëŸ¬í•œ ê³„íšì€  ê¸€ê¼´ê³¼ ê´€ë ¨ëœ ì—¬ëŸ¬ê°€ì§€ í˜¼ëˆì„ ë§‰
+    ê¸° ìœ„í•œ ê²ƒì´ì—ˆìŠµë‹ˆë‹¤. ê·¸ë ‡ê¸° ë•Œë¬¸ì— ì• ì´ˆì— ì´ëŸ¬í•œ í™œë™ì„ ê³„ì†í•˜ë¦¬ë¼ëŠ” ìƒ
+    ê°ì„ ê°€ì§€ê³  ìžˆì—ˆë‹¤ê³ ëŠ” í•˜ê¸° ì–´ë µìŠµë‹ˆë‹¤. ë”êµ¬ë‚˜, ì €ëŠ” ë²¡í„° ê¸€ê¼´ì— ëŒ€í•œ ê´€
+    ì‹¬ì´ ë” ë§Žì•˜ê¸° ë•Œë¬¸ì— ì´ëŸ¬í•œ ì¼ì— ëŒ€í•´ì„œëŠ” ì†”ì§ížˆ íšŒì˜ì ì´ê¸°ë„ í–ˆìŠµë‹ˆë‹¤.
+    ê·¸ëŸ¬ë‚˜,  ì•„ì§ì€ ì´ëŸ¬í•œ ë¹„íŠ¸ë§µ ê¸€ê¼´ì´ ë§Žì´ ì“°ì´ê³  ìžˆê³ ,  ë”°ë¼ì„œ ì´ì— ëŒ€í•œ
+    í˜¼ëž€ ì—­ì‹œ ê°€ì‹œì§€ ì•Šê³  ìžˆê¸° ë•Œë¬¸ì— ì•„ì§ì€ ì†ì„ ë†“ì§€ ì•Šê¸°ë¡œ í–ˆìŠµë‹ˆë‹¤.
+
+      í•˜ì§€ë§Œ, ì´ëŸ¬í•œ ì¼ì„ ì•„ì£¼ í™œë°œížˆ í•˜ê¸°ëŠ” ì–´ë ¤ìš¸ ê²ƒìž…ë‹ˆë‹¤. ì™œëƒí•˜ë©´ ì € ì—­
+    ì‹œ ì—¬ëŸ¬ë¶„ë“¤ì²˜ëŸ¼ í”„ë¡œê·¸ëž˜ë¨¸ê°€ ë˜ë ¤ í•˜ëŠ” ì‚¬ëžŒìœ¼ë¡œì¨,  ê¸€ê¼´ì—ë§Œ ì •ì‹ ì„ ëª¨ì„
+    ìˆ˜ëŠ” ì—†ê¸° ë•Œë¬¸ìž…ë‹ˆë‹¤. ê·¸ë¦¬ê³ , ë˜ ê·¸ëŸ¬í•œ ê²ƒì´ ì•„ë‹ˆë”ë¼ë„ ì´ê²ƒì€ í˜¼ìž í•˜ê¸°
+    ì—ëŠ” ë¬´ì²™ ë²…ì°¬ ì¼ì´ê¸°ë„ í•©ë‹ˆë‹¤. ì‹¤ì œë¡œ ì œê°€ ì•„ì§ ëª¨ìœ¼ì§€ ëª»í•œ ê¸€ê¼´ë„ ë¶€ì§€
+    ê¸°ìˆ˜ì¸ ê²ƒì„ ì—¬ëŸ¬ë¶„ë“¤ë„ ìž˜ ì•Œê³  ê³„ì‹¤ê²ë‹ˆë‹¤.
+
+      ê·¸ëŸ¬ë‚˜,  í˜¹ì´ë‚˜ ì—¬ëŸ¬ë¶„ë“¤ê»˜ì„œ  ì—¬ê¸°ì— ë“¤ì–´ ìžˆì§€ ì•Šì€ ë‹¤ë¥¸ ë§Žì€ ê¸€ê¼´ë“¤ì„
+    ë°›ì„ ìˆ˜ ìžˆëŠ” ê³³ê³¼ ê·¸ ê¸€ê¼´ì˜ ì¶œì²˜ë¥¼ ì•Œë ¤ì£¼ì‹œë©´ ë  ìˆ˜ ìžˆëŠ”ëŒ€ë¡œ ê·¸ ê¸€ê¼´ë“¤ì„
+    ì´ ì €ì˜ ê¸€ê¼´ ëª¨ìŒì— ë”í•´ì§ˆ ìˆ˜ ìžˆë„ë¡ ë…¸ë ¥í•˜ê² ìŠµë‹ˆë‹¤.  ê·¸ë¦¬ê³ , ì € ì—­ì‹œ ê¸€
+    ê¼´ ì œìž‘ì„ ë‹¹ë¶„ê°„ì€ ê³„ì†í•˜ë ¤ í•©ë‹ˆë‹¤.
+
+
+   >>> ë°”ëž¨ <<<
+
+      ë§ˆì§€ë§‰ìœ¼ë¡œ ì œê°€ ì—¬ëŸ¬ë¶„ë“¤ê»˜ ë°”ë¼ëŠ” ê²ƒì€ ë°•ê·œí˜„ë‹˜ê»˜ì„œë„ ë°ížŒ ê·¸ëŸ¬í•œ ì¼ë“¤
+    (ê¸€ê¼´ì˜ ì´ë¦„ì´ ë°”ë€ë‹¤ê±°ë‚˜, ë‹¤ë¥¸ ì‚¬ëžŒì˜ ëª…ì˜ë¥¼ ì–»ëŠ” ì¼ë“¤)ì´ ìƒê¸°ì§€ ì•Šë„ë¡
+    ë…¸ë ¥í•´ì£¼ì…¨ìœ¼ë©´ í•˜ëŠ” ê²ƒìž…ë‹ˆë‹¤.
+
+      ê¸€ê¼´ë„ ì—­ì‹œ í”„ë¡œê·¸ëž¨ì˜ ì¼ë¶€ìž…ë‹ˆë‹¤. ì—¬ìš°ì˜ ë‘”ê°‘ìˆ ì²˜ëŸ¼ í”„ë¡œê·¸ëž¨ì˜ ì†ŒìŠ¤ì™€
+    ê¸€ê¼´ë“¤ì´ ì–´ëŠìƒˆ ë‹¤ë¥¸ ì‚¬ëžŒì˜ ê²ƒìœ¼ë¡œ ë‘”ê°‘í•˜ì—¬  ì›ëž˜ì˜ ì œìž‘ìžì—ê²Œ ë˜ëŒì•„ ì˜¤
+    ëŠ” ì¼ì€ ì—†ì–´ì•¼ í•  ê²ƒìž…ë‹ˆë‹¤.
 
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 
-<Âü°í>
+                                ê¸€ê¼´ ëª¨ìŒ  #002
 
-   1. »ïº¸ Æ¯¼ö ¹®ÀÚ¿¡¼­ 0¹ø, (126¹ø,) 127¹ø ±ÛÀÚ´Â »ç¿ëÇÏÁö ¸¶½Ê½Ã¿À.
-
-   2. »êÀÇ ±¸¹öÀü µî  ÀÏºÎ ÇÁ·Î±×·¥¿¡¼­´Â  µµ±úºñ Çü½ÄÀÇ ±Û²ÃÀ»  »ç¿ëÇÏ´Âµ¥
-      ÀÖ¾î ´Ù¼Ò Àß¸øÀÌ ÀÖ±â ¶§¹®¿¡ ÀÏºÎ ±ÛÀÚ°¡ ÀÌ»óÇÏ°Ô º¸ÀÏ ¼öµµ ÀÖÀ¾´Ï´Ù.
-
-   3. ±Û²ÃÀÇ ÃâÃ³´Â  Á¦°¡ ±× ±Û²ÃÀ» ¾òÀº ÇÁ·Î±×·¥  ¶Ç´Â »ç¶÷À¸·Î Àû¾úÀ¸¹Ç·Î
-      ±× ±Û²ÃÀÇ ¿ø·¡ ÃâÃ³¿Í´Â ´Ù¸¦ ¼öµµ ÀÖÀ¾´Ï´Ù. ÀÌ·± °æ¿ì ¿ÇÀº Á¤º¸¸¦  ÁÖ
-      ½Ã±â ¹Ù¶ø´Ï´Ù.
-
-   4. º»ÀÎÀÇ ±Û²ÃÀÌ ¾Æ´Ñ °ÍÀº ±× ¸íÄªÀÌ ¿ø·¡¿Í ´Ù¼Ò Â÷ÀÌ°¡ ÀÖÀ» ¼öµµ ÀÖÀ¾´Ï
-      ´Ù. ÀÌ·± °æ¿ì ¿ÇÀº Á¤º¸¸¦ ÁÖ½Ã±â ¹Ù¶ø´Ï´Ù.
-
-   5. »ïº¸ Æ¯¼ö ¹®ÀÚ ÄÚµå¸¦ °¡Àå Á¤È®È÷ µû¸£°í ÀÖ´Â ±Û²ÃµéÀÔ´Ï´Ù.
+                            - 2. ê¸€ê¼´ ì‚¬ìš©ì˜ ì œí•œ -
 
 --------------------------------------------------------------------------------
-<ÁÖÀÇ »çÇ×> - '#', '*', '+'Ç¥°¡ ºÙ¾îÀÖ´Â ±Û²Ã¿¡ ÇÑ ÇÔ
-
-   1. Á¦°¡ ¸¸µç ±Û²ÃÀÇ ÆÄÀÏÀÌ¸§Àº ¹Ù²ÙÁö ¸»¾Æ ÁÖ½Ã±æ ¹Ù¶ø´Ï´Ù.
-
-   2. ¿©±â ÀÖ´Â ±Û²ÃÀ» »ç¿ëÇÏ½Ç ¶§¿¡´Â ÃâÃ³¸¦ ¹àÇô ÁÖ½Ê½Ã¿À.
-
-   3. º»ÀÎÀÇ Çã°¡ ¾øÀÌ »ó¿ë ÇÁ·Î±×·¥¿¡¼­ »ç¿ëÇÏÁö ¸¶½Ê½Ã¿À.
-
---------------------------------------------------------------------------------
- #: ¼ø¼ö Ã¢ÀÛ ±Û²Ã
-
- *: ´Ù¸¥ °÷¿¡¼­ ÈùÆ®¸¦ ¾ò¾î ¸¸µç ±Û²Ã
-
- +: ´Ù¸¥ »ç¶÷ÀÇ ±Û²ÃÀ» ÃæºÐÈ÷ ¼Õº» ±Û²Ã
-
- .: ´Ù¸¥ »ç¶÷ÀÇ ±Û²ÃÀ» Á¶±Ý ´ÙµëÀº ±Û²Ã
-
-  : ´Ù¸¥ »ç¶÷ÀÇ ±Û²Ã
 --------------------------------------------------------------------------------
 
->>> »õ·Î¿î ±Û²Ã
+>>> ìƒì—…ìš© ì‚¬ìš©ì´ ì œí•œë˜ëŠ” ê¸€ê¼´
 
-ÀÌ¸§              ÆÄÀÏÀÌ¸§       ºñ°í
+   ì˜í™”ì²´
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+                                ê¸€ê¼´ ëª¨ìŒ  #002
+
+                            - 3. ì´ì „íŒê³¼ ë‹¤ë¥¸ì  -
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+<ì°¸ê³ >
+
+   1. ì‚¼ë³´ íŠ¹ìˆ˜ ë¬¸ìžì—ì„œ 0ë²ˆ, (126ë²ˆ,) 127ë²ˆ ê¸€ìžëŠ” ì‚¬ìš©í•˜ì§€ ë§ˆì‹­ì‹œì˜¤.
+
+   2. ì‚°ì˜ êµ¬ë²„ì „ ë“±  ì¼ë¶€ í”„ë¡œê·¸ëž¨ì—ì„œëŠ”  ë„ê¹¨ë¹„ í˜•ì‹ì˜ ê¸€ê¼´ì„  ì‚¬ìš©í•˜ëŠ”ë°
+      ìžˆì–´ ë‹¤ì†Œ ìž˜ëª»ì´ ìžˆê¸° ë•Œë¬¸ì— ì¼ë¶€ ê¸€ìžê°€ ì´ìƒí•˜ê²Œ ë³´ì¼ ìˆ˜ë„ ìžˆìë‹ˆë‹¤.
+
+   3. ê¸€ê¼´ì˜ ì¶œì²˜ëŠ”  ì œê°€ ê·¸ ê¸€ê¼´ì„ ì–»ì€ í”„ë¡œê·¸ëž¨  ë˜ëŠ” ì‚¬ëžŒìœ¼ë¡œ ì ì—ˆìœ¼ë¯€ë¡œ
+      ê·¸ ê¸€ê¼´ì˜ ì›ëž˜ ì¶œì²˜ì™€ëŠ” ë‹¤ë¥¼ ìˆ˜ë„ ìžˆìë‹ˆë‹¤. ì´ëŸ° ê²½ìš° ì˜³ì€ ì •ë³´ë¥¼  ì£¼
+      ì‹œê¸° ë°”ëžë‹ˆë‹¤.
+
+   4. ë³¸ì¸ì˜ ê¸€ê¼´ì´ ì•„ë‹Œ ê²ƒì€ ê·¸ ëª…ì¹­ì´ ì›ëž˜ì™€ ë‹¤ì†Œ ì°¨ì´ê°€ ìžˆì„ ìˆ˜ë„ ìžˆìë‹ˆ
+      ë‹¤. ì´ëŸ° ê²½ìš° ì˜³ì€ ì •ë³´ë¥¼ ì£¼ì‹œê¸° ë°”ëžë‹ˆë‹¤.
+
+   5. ì‚¼ë³´ íŠ¹ìˆ˜ ë¬¸ìž ì½”ë“œë¥¼ ê°€ìž¥ ì •í™•ížˆ ë”°ë¥´ê³  ìžˆëŠ” ê¸€ê¼´ë“¤ìž…ë‹ˆë‹¤.
+
+--------------------------------------------------------------------------------
+<ì£¼ì˜ ì‚¬í•­> - '#', '*', '+'í‘œê°€ ë¶™ì–´ìžˆëŠ” ê¸€ê¼´ì— í•œ í•¨
+
+   1. ì œê°€ ë§Œë“  ê¸€ê¼´ì˜ íŒŒì¼ì´ë¦„ì€ ë°”ê¾¸ì§€ ë§ì•„ ì£¼ì‹œê¸¸ ë°”ëžë‹ˆë‹¤.
+
+   2. ì—¬ê¸° ìžˆëŠ” ê¸€ê¼´ì„ ì‚¬ìš©í•˜ì‹¤ ë•Œì—ëŠ” ì¶œì²˜ë¥¼ ë°í˜€ ì£¼ì‹­ì‹œì˜¤.
+
+   3. ë³¸ì¸ì˜ í—ˆê°€ ì—†ì´ ìƒìš© í”„ë¡œê·¸ëž¨ì—ì„œ ì‚¬ìš©í•˜ì§€ ë§ˆì‹­ì‹œì˜¤.
+
+--------------------------------------------------------------------------------
+ #: ìˆœìˆ˜ ì°½ìž‘ ê¸€ê¼´
+
+ *: ë‹¤ë¥¸ ê³³ì—ì„œ ížŒíŠ¸ë¥¼ ì–»ì–´ ë§Œë“  ê¸€ê¼´
+
+ +: ë‹¤ë¥¸ ì‚¬ëžŒì˜ ê¸€ê¼´ì„ ì¶©ë¶„ížˆ ì†ë³¸ ê¸€ê¼´
+
+ .: ë‹¤ë¥¸ ì‚¬ëžŒì˜ ê¸€ê¼´ì„ ì¡°ê¸ˆ ë‹¤ë“¬ì€ ê¸€ê¼´
+
+  : ë‹¤ë¥¸ ì‚¬ëžŒì˜ ê¸€ê¼´
+--------------------------------------------------------------------------------
+
+>>> ìƒˆë¡œìš´ ê¸€ê¼´
+
+ì´ë¦„              íŒŒì¼ì´ë¦„       ë¹„ê³ 
 ................................................................................
 
-<ÇÑ±Û ±Û²Ã>
+<í•œê¸€ ê¸€ê¼´>
 
-°ß»ù¹°°íµñÃ¼      HANGSMGO.HAN   ??? (    //    )
-±Ã¼­Ã¼            HANGS   .HAN   ??? (    //    <- ¾Æ·¡¾Æ ÇÑ±Û¿ë ºñÆ®¸Ê)
-µðÀÚÀÎÃ¼          HANDG   .HAN   ??? (    //    <- ¾Æ·¡¾Æ ÇÑ±Û¿ë ºñÆ®¸Ê)
+ê²¬ìƒ˜ë¬¼ê³ ë”•ì²´      HANGSMGO.HAN   ??? (    //    )
+ê¶ì„œì²´            HANGS   .HAN   ??? (    //    <- ì•„ëž˜ì•„ í•œê¸€ìš© ë¹„íŠ¸ë§µ)
+ë””ìžì¸ì²´          HANDG   .HAN   ??? (    //    <- ì•„ëž˜ì•„ í•œê¸€ìš© ë¹„íŠ¸ë§µ)
 
-°­ ¸íÁ¶Ã¼         PED     .HAN   °­ ¿¡µðÅÍ, ¹ÚÈ£¿ë
+ê°• ëª…ì¡°ì²´         PED     .HAN   ê°• ì—ë””í„°, ë°•í˜¸ìš©
 
-¼öÁÝÀ½Ã¼          HANSHY  .HAN   °ûÅÃÁ¾(HiTEL ID:saenaegi)
-Ã»°³±¸¸®Ã¼       .HANFROG .HAN   °ûÅÃÁ¾ (±Û²Ã Çü½Ä Â÷ÀÌ·Î º¯Çü)
-Å°´Ù¸®Ã¼          HANKDR  .HAN   °ûÅÃÁ¾
+ìˆ˜ì¤ìŒì²´          HANSHY  .HAN   ê³½íƒì¢…(HiTEL ID:saenaegi)
+ì²­ê°œêµ¬ë¦¬ì²´       .HANFROG .HAN   ê³½íƒì¢… (ê¸€ê¼´ í˜•ì‹ ì°¨ì´ë¡œ ë³€í˜•)
+í‚¤ë‹¤ë¦¬ì²´          HANKDR  .HAN   ê³½íƒì¢…
 
-»¡·¡Ã¼            HANHO   .HAN   ±è±âÁ¤
-Àü¼­Ã¼1          .HANJS1  .HAN   ±è±âÁ¤
+ë¹¨ëž˜ì²´            HANHO   .HAN   ê¹€ê¸°ì •
+ì „ì„œì²´1          .HANJS1  .HAN   ê¹€ê¸°ì •
 
-Èê¸²Ã¼            HANCH   .HAN   ±è¼ö±¸
+í˜ë¦¼ì²´            HANCH   .HAN   ê¹€ìˆ˜êµ¬
 
-ÆÄµµÃ¼            HPADO   .HAN   ±è¿µ¼®(HiTELID:eleman)
+íŒŒë„ì²´            HPADO   .HAN   ê¹€ì˜ì„(HiTELID:eleman)
 
----               HANKYH  .HAN   ±è¿µÈ­(HiTEL ID:kyh242)
+---               HANKYH  .HAN   ê¹€ì˜í™”(HiTEL ID:kyh242)
 
-°¡´Â´Þ²Ã          H02     .HAN   ±èÁßÅÂ(HiTEL ID:hangul), ÀÌ¾ß±â 6.0
-±½Àº´Þ²Ã          H01     .HAN   ±èÁßÅÂ
-´ë³ª¹«²Ã          H14     .HAN   ±èÁßÅÂ
-µÕ±Ù¸ð²Ã          H04     .HAN   ±èÁßÅÂ
-¸þ²Ã              H06     .HAN   ±èÁßÅÂ
-¹ö±Ý´Þ²Ã          H03     .HAN   ±èÁßÅÂ
-»¸À½²Ã            H09     .HAN   ±èÁßÅÂ
-»ßÄ§²Ã            H11     .HAN   ±èÁßÅÂ
-ÀÛÀº»ßÄ§²Ã        H12     .HAN   ±èÁßÅÂ
-ÁßÅÂ¼¼¸ð²Ã        H08     .HAN   ±èÁßÅÂ
-ÂªÀºµÕ±Ù¸ð²Ã      H05     .HAN   ±èÁßÅÂ
-ÂªÀº¸þ²Ã          H07     .HAN   ±èÁßÅÂ
-ÂªÀº»¸À½²Ã        H10     .HAN   ±èÁßÅÂ
-Æ÷°·²Ã            H15     .HAN   ±èÁßÅÂ
-Ç®ÀÙ²Ã            H13     .HAN   ±èÁßÅÂ
+ê°€ëŠ”ë‹¬ê¼´          H02     .HAN   ê¹€ì¤‘íƒœ(HiTEL ID:hangul), ì´ì•¼ê¸° 6.0
+êµµì€ë‹¬ê¼´          H01     .HAN   ê¹€ì¤‘íƒœ
+ëŒ€ë‚˜ë¬´ê¼´          H14     .HAN   ê¹€ì¤‘íƒœ
+ë‘¥ê·¼ëª¨ê¼´          H04     .HAN   ê¹€ì¤‘íƒœ
+ë«¼ê¼´              H06     .HAN   ê¹€ì¤‘íƒœ
+ë²„ê¸ˆë‹¬ê¼´          H03     .HAN   ê¹€ì¤‘íƒœ
+ë»—ìŒê¼´            H09     .HAN   ê¹€ì¤‘íƒœ
+ì‚ì¹¨ê¼´            H11     .HAN   ê¹€ì¤‘íƒœ
+ìž‘ì€ì‚ì¹¨ê¼´        H12     .HAN   ê¹€ì¤‘íƒœ
+ì¤‘íƒœì„¸ëª¨ê¼´        H08     .HAN   ê¹€ì¤‘íƒœ
+ì§§ì€ë‘¥ê·¼ëª¨ê¼´      H05     .HAN   ê¹€ì¤‘íƒœ
+ì§§ì€ë«¼ê¼´          H07     .HAN   ê¹€ì¤‘íƒœ
+ì§§ì€ë»—ìŒê¼´        H10     .HAN   ê¹€ì¤‘íƒœ
+í¬ê°¬ê¼´            H15     .HAN   ê¹€ì¤‘íƒœ
+í’€ìžŽê¼´            H13     .HAN   ê¹€ì¤‘íƒœ
 
-¼Ò¶óÃ¼            HANSORA .HAN   ³²Á¤¿ì(HiTEL ID:amuguna)
+ì†Œë¼ì²´            HANSORA .HAN   ë‚¨ì •ìš°(HiTEL ID:amuguna)
 
-µµ±úºñ µð³ª·ç     HANKBC  .HAN   µµ±úºñ ÇÑ±Û 3.30, Á¶ÃáÇü
+ë„ê¹¨ë¹„ ë””ë‚˜ë£¨     HANKBC  .HAN   ë„ê¹¨ë¹„ í•œê¸€ 3.30, ì¡°ì¶˜í˜•
 
-°­Ã¶Ã¼            HANIRON .HAN   ¹ÚÈ£¼º(HiTEL ID: p3h1s4)
-°­Ã¶Ã¼1          .HANIRON1.HAN   ¹ÚÈ£¼º
-°­Ã¶Ã¼2           HANIRON1.HAN   ¹ÚÈ£¼º
+ê°•ì² ì²´            HANIRON .HAN   ë°•í˜¸ì„±(HiTEL ID: p3h1s4)
+ê°•ì² ì²´1          .HANIRON1.HAN   ë°•í˜¸ì„±
+ê°•ì² ì²´2           HANIRON1.HAN   ë°•í˜¸ì„±
 
----               A_FONT  .HAN   ¼­¿ë¿ø(HiTEL ID:yongwon)
+---               A_FONT  .HAN   ì„œìš©ì›(HiTEL ID:yongwon)
 
-±×¸²Ã¼            HANGRIM .HAN   ¼­Á¤È£
+ê·¸ë¦¼ì²´            HANGRIM .HAN   ì„œì •í˜¸
 
-¸ð¶õÃ¼            HANMORAN.HAN   ¼±µ¿¼ú
+ëª¨ëž€ì²´            HANMORAN.HAN   ì„ ë™ìˆ 
 
-¾È»ùÃ¼            HANANSAM.HAN   ¼Û¼ºÈÆ(Dentist·Î HiTEL¿¡)
+ì•ˆìƒ˜ì²´            HANANSAM.HAN   ì†¡ì„±í›ˆ(Dentistë¡œ HiTELì—)
 
-½Å¼±¸íÁ¶Ã¼        HANSSMJ .HAN   ½Åµ¿¼±(HiTEL ID:shin1234)
-½Åµ¿¼± µð³ª·çÃ¼   HANDINA .HAN   ½Åµ¿¼±
-½Åµ¿¼± ¼¼³ª·çÃ¼   HANSENA .HAN   ½Åµ¿¼±
+ì‹ ì„ ëª…ì¡°ì²´        HANSSMJ .HAN   ì‹ ë™ì„ (HiTEL ID:shin1234)
+ì‹ ë™ì„  ë””ë‚˜ë£¨ì²´   HANDINA .HAN   ì‹ ë™ì„ 
+ì‹ ë™ì„  ì„¸ë‚˜ë£¨ì²´   HANSENA .HAN   ì‹ ë™ì„ 
 
-°¡´Â»ù¹°          HANGNSM .HAN   À¯½Â¹«(HiTEL ID:ysmoo)
-±½Àº»ù¹°          HANGSM  .HAN   À¯½Â¹«
-Å«»õ°íµñÃ¼        HANSG   .HAN   À¯½Â¹«
+ê°€ëŠ”ìƒ˜ë¬¼          HANGNSM .HAN   ìœ ìŠ¹ë¬´(HiTEL ID:ysmoo)
+êµµì€ìƒ˜ë¬¼          HANGSM  .HAN   ìœ ìŠ¹ë¬´
+í°ìƒˆê³ ë”•ì²´        HANSG   .HAN   ìœ ìŠ¹ë¬´
 
-±ä°íµñÃ¼          GG      .HAN   À±Èñ¿Á(HiTEL ID:13906526)
-¼Ò¸ÁÃ¼            SOMANG  .HAN   À±Èñ¿Á
-Èñ¸ÁÃ¼            HEEMANG .HAN   À±Èñ¿Á
+ê¸´ê³ ë”•ì²´          GG      .HAN   ìœ¤í¬ì˜¥(HiTEL ID:13906526)
+ì†Œë§ì²´            SOMANG  .HAN   ìœ¤í¬ì˜¥
+í¬ë§ì²´            HEEMANG .HAN   ìœ¤í¬ì˜¥
 
-±ä»ùÃ¼            HANGINSM.HAN   ÀÌÁ¾ÈÆ
-±Ã¼­Èê¸²Ã¼        HANGHS  .HAN   ÀÌÁ¾ÈÆ (Ãµ¸®¾È ÇÑ/ÄÄ)
+ê¸´ìƒ˜ì²´            HANGINSM.HAN   ì´ì¢…í›ˆ
+ê¶ì„œí˜ë¦¼ì²´        HANGHS  .HAN   ì´ì¢…í›ˆ (ì²œë¦¬ì•ˆ í•œ/ì»´)
 
-°¡´Â°¡À» ÇÑ±ÛÃ¼   HPRCS   .HAN   ÀÌÈ®¿µ(HiTEL ID:TELETALK), ÇÁ¸°¼¼½º ¸ÞÀÌÄ¿
-ÀÌ¾ß±â°íµñÃ¼      HIYGGD2 .HAN   ÀÌÈ®¿µ, ÀÌ¾ß±â ±½ÀºÃ¼ º¯Çü
+ê°€ëŠ”ê°€ì„ í•œê¸€ì²´   HPRCS   .HAN   ì´í™•ì˜(HiTEL ID:TELETALK), í”„ë¦°ì„¸ìŠ¤ ë©”ì´ì»¤
+ì´ì•¼ê¸°ê³ ë”•ì²´      HIYGGD2 .HAN   ì´í™•ì˜, ì´ì•¼ê¸° êµµì€ì²´ ë³€í˜•
 
-¿µÈ­Ã¼            HANYH   .HAN   Àå¿µÈ­(HiTEL ID:hayeun)
-   µî·Ï¹øÈ£: 93-00112-SB-F-016, °úÇÐ±â¼ú¿ø ½Ã½ºÅÛ °øÇÐ¿¬±¸¼Ò ÆùÆ®°³¹ßº¸±Þ¼¾ÅÍ
+ì˜í™”ì²´            HANYH   .HAN   ìž¥ì˜í™”(HiTEL ID:hayeun)
+   ë“±ë¡ë²ˆí˜¸: 93-00112-SB-F-016, ê³¼í•™ê¸°ìˆ ì› ì‹œìŠ¤í…œ ê³µí•™ì—°êµ¬ì†Œ í°íŠ¸ê°œë°œë³´ê¸‰ì„¼í„°
 
-°¡·Î¼öÃ¼          HANGRS  .HAN   Àü¿µ±â(HiTEL ID:GAROSOO)
+ê°€ë¡œìˆ˜ì²´          HANGRS  .HAN   ì „ì˜ê¸°(HiTEL ID:GAROSOO)
 
----               TBG2    .HAN   ÅÂ¹é ÇÑ±Û
----               TBG4    .HAN   ÅÂ¹é ÇÑ±Û
-ÅÂ¹é ÈÆ¹ÎÁ¤À½Ã¼   TBHM    .HAN   ÅÂ¹é ÇÑ±Û
+---               TBG2    .HAN   íƒœë°± í•œê¸€
+---               TBG4    .HAN   íƒœë°± í•œê¸€
+íƒœë°± í›ˆë¯¼ì •ìŒì²´   TBHM    .HAN   íƒœë°± í•œê¸€
 
 ---               APPLE00 .HAN   TESTCOMM
-±½Àº µÕ±Ù°íµñÃ¼   GOBO03  .HAN   TESTCOMM
+êµµì€ ë‘¥ê·¼ê³ ë”•ì²´   GOBO03  .HAN   TESTCOMM
 
-º¹¼± ¸íÁ¶Ã¼       H_DMYONG.HAN   ÇÏ³ª¸® C ¶óÀÌºê·¯¸®, ÀÌ È®¿µ(HiTEL ID:TELETALK)
-soft              H_SOFT  .HAN   ÇÏ³ª¸® C ¶óÀÌºê·¯¸®
+ë³µì„  ëª…ì¡°ì²´       H_DMYONG.HAN   í•˜ë‚˜ë¦¬ C ë¼ì´ë¸ŒëŸ¬ë¦¬, ì´ í™•ì˜(HiTEL ID:TELETALK)
+soft              H_SOFT  .HAN   í•˜ë‚˜ë¦¬ C ë¼ì´ë¸ŒëŸ¬ë¦¬
 
-º×ÆæÃ¼            HANHYES .HAN   ÇÏÇý¼º(HiTEL ID:hahs)
-¾î¸°ÀÌÃ¼         .HANCHD  .HAN   ÇÏÇý¼º <- ¼­Á¤È£ <- ÇãÀÎ±¸
-Çý¼ºÃ¼            HANHCH  .HAN   ÇÏÇý¼º
+ë¶“íŽœì²´            HANHYES .HAN   í•˜í˜œì„±(HiTEL ID:hahs)
+ì–´ë¦°ì´ì²´         .HANCHD  .HAN   í•˜í˜œì„± <- ì„œì •í˜¸ <- í—ˆì¸êµ¬
+í˜œì„±ì²´            HANHCH  .HAN   í•˜í˜œì„±
 
-Å¹Ã¼              TAK     .HAN   ÇÑ±âÅÃ(HiTEL ID:hankitak)
+íƒì²´              TAK     .HAN   í•œê¸°íƒ(HiTEL ID:hankitak)
 
-³«¼­Ã¼            HANNAK  .HAN   ÇãÀÎ±¸
-µÕ±Ù°íµñÃ¼        HANDGO  .HAN   ÇãÀÎ±¸
-¹Ù´ÙÃ¼            HANVADA .HAN   ÇãÀÎ±¸
-¹ÙÀÌÆ®Ã¼          HANBYTE .HAN   ÇãÀÎ±¸
-»ù¹°°íµñÃ¼        HANSMGO .HAN   ÇãÀÎ±¸->°ûÅÃÁ¾
-»ù¹°ÀÌ»ÛÃ¼       .HANSPN  .HAN   ÇãÀÎ±¸
-¼Õ±ÛÀÌ»ÛÃ¼        HANIPN  .HAN   ÇãÀÎ±¸->¼­Á¤È£
-¿¹»Û¼Õ±ÛÃ¼        HANEAPN .HAN   ÇãÀÎ±¸
-Á¤¼­Ã¼            HANPW   .HAN   ÇãÀÎ±¸
-Å«±Û°íµñÃ¼       .HANBIGO .HAN   ÇãÀÎ±¸
-ÇÑ±ÃÃ¼            HANGUNG .HAN   ÇãÀÎ±¸
-ÇÑ¸Þ»ù¹°Ã¼        HANHMSM .HAN   ÇãÀÎ±¸
-ÇãÀÎ±¸ ¾È»ó¼öÃ¼   HANAHN  .HAN   ÇãÀÎ±¸ <- ÀÌ¾ß±â ¾È»ó¼öÃ¼
-Èê¸²°íµñÃ¼        HANHLGO .HAN   ÇãÀÎ±¸
+ë‚™ì„œì²´            HANNAK  .HAN   í—ˆì¸êµ¬
+ë‘¥ê·¼ê³ ë”•ì²´        HANDGO  .HAN   í—ˆì¸êµ¬
+ë°”ë‹¤ì²´            HANVADA .HAN   í—ˆì¸êµ¬
+ë°”ì´íŠ¸ì²´          HANBYTE .HAN   í—ˆì¸êµ¬
+ìƒ˜ë¬¼ê³ ë”•ì²´        HANSMGO .HAN   í—ˆì¸êµ¬->ê³½íƒì¢…
+ìƒ˜ë¬¼ì´ìœì²´       .HANSPN  .HAN   í—ˆì¸êµ¬
+ì†ê¸€ì´ìœì²´        HANIPN  .HAN   í—ˆì¸êµ¬->ì„œì •í˜¸
+ì˜ˆìœì†ê¸€ì²´        HANEAPN .HAN   í—ˆì¸êµ¬
+ì •ì„œì²´            HANPW   .HAN   í—ˆì¸êµ¬
+í°ê¸€ê³ ë”•ì²´       .HANBIGO .HAN   í—ˆì¸êµ¬
+í•œê¶ì²´            HANGUNG .HAN   í—ˆì¸êµ¬
+í•œë©”ìƒ˜ë¬¼ì²´        HANHMSM .HAN   í—ˆì¸êµ¬
+í—ˆì¸êµ¬ ì•ˆìƒìˆ˜ì²´   HANAHN  .HAN   í—ˆì¸êµ¬ <- ì´ì•¼ê¸° ì•ˆìƒìˆ˜ì²´
+í˜ë¦¼ê³ ë”•ì²´        HANHLGO .HAN   í—ˆì¸êµ¬
 
-Áß°£°íµñÃ¼ 2     *MIDDLE2 .HAN
+ì¤‘ê°„ê³ ë”•ì²´ 2     *MIDDLE2 .HAN
 
-<¿µ¾î ±Û²Ã>
+<ì˜ì–´ ê¸€ê¼´>
 
----               A_FONT  .ENG   ??? (¾î¶² ÇÏÀÌÅÚ »ç¿ëÀÚ, ¿ø·¡´Â ÀÌ¾ß±â¿ë)
+---               A_FONT  .ENG   ??? (ì–´ë–¤ í•˜ì´í…” ì‚¬ìš©ìž, ì›ëž˜ëŠ” ì´ì•¼ê¸°ìš©)
 
-¿µ¹®±½Àº¸Ú²Ã      E1      .ENG   ±èÁßÅÂ(HiTEL ID:hangul), ÀÌ¾ß±â 6.0
-¿µ¹®µÕ±Ù¸ð²Ã      E2      .ENG   ±èÁßÅÂ
-¿µ¹®¹ö±Ý¸Ú²Ã      E3      .ENG   ±èÁßÅÂ
-¿µ¹®¹ö±Ý¸Ú²Ã2     E4_2    .ENG   ±èÁßÅÂ
-¿µ¹®¹ö±Ý¸Ú²Ã3     E4_3    .ENG   ±èÁßÅÂ
-¿µ¹®ÁßÅÂ±ï±â²Ã    E6      .ENG   ±èÁßÅÂ
-¿µ¹®ÁßÅÂ¼¼¸ð²Ã    E8      .ENG   ±èÁßÅÂ
-¿µ¹®Æ´¸Ú²Ã        E5      .ENG   ±èÁßÅÂ
+ì˜ë¬¸êµµì€ë©‹ê¼´      E1      .ENG   ê¹€ì¤‘íƒœ(HiTEL ID:hangul), ì´ì•¼ê¸° 6.0
+ì˜ë¬¸ë‘¥ê·¼ëª¨ê¼´      E2      .ENG   ê¹€ì¤‘íƒœ
+ì˜ë¬¸ë²„ê¸ˆë©‹ê¼´      E3      .ENG   ê¹€ì¤‘íƒœ
+ì˜ë¬¸ë²„ê¸ˆë©‹ê¼´2     E4_2    .ENG   ê¹€ì¤‘íƒœ
+ì˜ë¬¸ë²„ê¸ˆë©‹ê¼´3     E4_3    .ENG   ê¹€ì¤‘íƒœ
+ì˜ë¬¸ì¤‘íƒœê¹ê¸°ê¼´    E6      .ENG   ê¹€ì¤‘íƒœ
+ì˜ë¬¸ì¤‘íƒœì„¸ëª¨ê¼´    E8      .ENG   ê¹€ì¤‘íƒœ
+ì˜ë¬¸í‹ˆë©‹ê¼´        E5      .ENG   ê¹€ì¤‘íƒœ
 
-µµ±úºñ ASCX      .ASCX    .ENG   µµ±úºñ ÇÑ±Û 3.30, Á¶ÃáÇü
-µµ±úºñ ASCY      .ASCY    .ENG   µµ±úºñ ÇÑ±Û 3.30
+ë„ê¹¨ë¹„ ASCX      .ASCX    .ENG   ë„ê¹¨ë¹„ í•œê¸€ 3.30, ì¡°ì¶˜í˜•
+ë„ê¹¨ë¹„ ASCY      .ASCY    .ENG   ë„ê¹¨ë¹„ í•œê¸€ 3.30
 
-ÇÑ±Û ÀÌÅÅ¸¯Ã¼     HANITL  .ENG   ¾Æ·¡¾Æ ÇÑ±Û
+í•œê¸€ ì´íƒ¤ë¦­ì²´     HANITL  .ENG   ì•„ëž˜ì•„ í•œê¸€
 
-¿µ¹®Á¤ÇüÃ¼       .EGOOD   .ENG   ÀÌÈ®¿µ(HiTEL ID:TELETALK), TsengHi ASCII º¯Çü
-°¡´Â°¡À» ¿µ¹®Ã¼  .EPRCS   .ENG   ÀÌÈ®¿µ, ÇÁ¸°¼¼½º ¸ÞÀÌÄ¿
+ì˜ë¬¸ì •í˜•ì²´       .EGOOD   .ENG   ì´í™•ì˜(HiTEL ID:TELETALK), TsengHi ASCII ë³€í˜•
+ê°€ëŠ”ê°€ì„ ì˜ë¬¸ì²´  .EPRCS   .ENG   ì´í™•ì˜, í”„ë¦°ì„¸ìŠ¤ ë©”ì´ì»¤
 
 ATI VGA ASCII     ATIVGA  .ENG   ATI VGA Wonder BIOS
 
@@ -379,324 +379,324 @@ Trident ASCII     TRIDENT .ENG   Trident VGA BIOS
 
 TsengHi ASCII     TSENGHI .ENG   Tseng VGA/High RAM Dack BIOS
 
-ÅÂ¹é             .TB      .SPC   ÅÂ¹é ÇÑ±Û
+íƒœë°±             .TB      .SPC   íƒœë°± í•œê¸€
 
-ÇÏ³ª¸®           .HANARI  .SPC   ÇÏ³ª¸® C ¶óÀÌºê·¯¸®, ÀÌ È®¿µ(HiTEL ID:TELETALK)
+í•˜ë‚˜ë¦¬           .HANARI  .SPC   í•˜ë‚˜ë¦¬ C ë¼ì´ë¸ŒëŸ¬ë¦¬, ì´ í™•ì˜(HiTEL ID:TELETALK)
 
-<KS, KSSM ±×·¡ÇÈ ¹®ÀÚ ±Û²Ã>
+<KS, KSSM ê·¸ëž˜í”½ ë¬¸ìž ê¸€ê¼´>
 
-°­                PED     .KSG   °­ ¿¡µðÅÍ, ¹ÚÈ£¿ë
+ê°•                PED     .KSG   ê°• ì—ë””í„°, ë°•í˜¸ìš©
 
-»çÀÓ´ç            SMD     .KSG   »çÀÓ´ç 2.0 µ¥¸ð ¹öÀü
+ì‚¬ìž„ë‹¹            SMD     .KSG   ì‚¬ìž„ë‹¹ 2.0 ë°ëª¨ ë²„ì „
 
-»ê                SAN     .KSG   »ê ¿¡µðÅÍ
+ì‚°                SAN     .KSG   ì‚° ì—ë””í„°
 
-ÀÌ¾ß±â            IYG     .KSG   ÀÌ¾ß±â
+ì´ì•¼ê¸°            IYG     .KSG   ì´ì•¼ê¸°
 
-ÇÑ¸Þ              HM      .KSG   ÇÑ¸Þ ÇÑ±Û
+í•œë©”              HM      .KSG   í•œë©” í•œê¸€
 
 Roman            *ROMAN   .KSG
 Roman Cleary     *ROMAN_C .KSG
 Roman Large      *ROMAN_L .KSG
-Serife           *SERIFE  .KSG   WindowsÀÇ Serife.fonÀ» ÀÀ¿ë
-Yun              *YUN     .KSG   (ÀÛ¾÷Áß)
+Serife           *SERIFE  .KSG   Windowsì˜ Serife.fonì„ ì‘ìš©
+Yun              *YUN     .KSG   (ìž‘ì—…ì¤‘)
 
 --------------------------------------------------------------------------------
 
->>> °íÃÄÁø ±Û²Ã
+>>> ê³ ì³ì§„ ê¸€ê¼´
 
-ÀÌ¸§              ÆÄÀÏÀÌ¸§       ºñ°í                          ¿¾ ÆÄÀÏÀÌ¸§
+ì´ë¦„              íŒŒì¼ì´ë¦„       ë¹„ê³                           ì˜› íŒŒì¼ì´ë¦„
 ................................................................................
 
-<ÇÑ±Û ±Û²Ã>
+<í•œê¸€ ê¸€ê¼´>
 
-±½Àº ÆÄµµÃ¼      .PADO_B  .HAN   ÀÌº´µµ´Ô Á¦°ø (±Û²ÃÀÌ¸§ º¯°æ) :SON1
+êµµì€ íŒŒë„ì²´      .PADO_B  .HAN   ì´ë³‘ë„ë‹˜ ì œê³µ (ê¸€ê¼´ì´ë¦„ ë³€ê²½) :SON1
 
-±èÀÎÃ¶Ã¼         .KIC     .HAN                                 :SAM
-±èÀÎÃ¶Ã¼ 2       +KIC2    .HAN                                 :SAM2
+ê¹€ì¸ì² ì²´         .KIC     .HAN                                 :SAM
+ê¹€ì¸ì² ì²´ 2       +KIC2    .HAN                                 :SAM2
 
-µµ±úºñ µð³ª·ç 2  +HANKBC2 .HAN                                 :DKBDINA
+ë„ê¹¨ë¹„ ë””ë‚˜ë£¨ 2  +HANKBC2 .HAN                                 :DKBDINA
 
-ÅÂ¹éÇÊ±âÃ¼        TBPIL   .HAN   ÅÂ¹é ÇÑ±Û (¿ø·¡ ±Û²Ã ÀÔ¼ö)    :HANSON
-ÅÂ¹éÇÊ±âÃ¼ 2     .TBPIL2  .HAN   (ÆÄÀÏÀÌ¸§ º¯°æ)               :HANSON2
+íƒœë°±í•„ê¸°ì²´        TBPIL   .HAN   íƒœë°± í•œê¸€ (ì›ëž˜ ê¸€ê¼´ ìž…ìˆ˜)    :HANSON
+íƒœë°±í•„ê¸°ì²´ 2     .TBPIL2  .HAN   (íŒŒì¼ì´ë¦„ ë³€ê²½)               :HANSON2
 
-½ÅÆÇº»Ã¼         *PANBON  .HAN   (±Û²ÃÀÌ¸§ º¯°æ)               :OULD
-½ÅÆÇº»Ã¼ 2       *PANBON2 .HAN   (±Û²ÃÀÌ¸§ º¯°æ)               :OULD
-½ÅÆÇº»Ã¼ 3       *PANBON3 .HAN   (±Û²ÃÀÌ¸§ º¯°æ)               :HOULD
+ì‹ íŒë³¸ì²´         *PANBON  .HAN   (ê¸€ê¼´ì´ë¦„ ë³€ê²½)               :OULD
+ì‹ íŒë³¸ì²´ 2       *PANBON2 .HAN   (ê¸€ê¼´ì´ë¦„ ë³€ê²½)               :OULD
+ì‹ íŒë³¸ì²´ 3       *PANBON3 .HAN   (ê¸€ê¼´ì´ë¦„ ë³€ê²½)               :HOULD
 
-<¿µ¾î ±Û²Ã>
+<ì˜ì–´ ê¸€ê¼´>
 
-ÇÑ±Û ÇÊ±âÃ¼      .HANSC   .ENG   (±Û²ÃÀÌ¸§ º¯°æ)               :PIL1
+í•œê¸€ í•„ê¸°ì²´      .HANSC   .ENG   (ê¸€ê¼´ì´ë¦„ ë³€ê²½)               :PIL1
 
 
-<»ïº¸ Æ¯¼ö ¹®ÀÚ ±Û²Ã>
+<ì‚¼ë³´ íŠ¹ìˆ˜ ë¬¸ìž ê¸€ê¼´>
 
-µµ±úºñ Æ¯¼ö ¹®ÀÚ .SPEC    .SPC   (±Û²Ã¸í, ÆÄÀÏ¸í, Á¦ÀÛÀÚ º¯°æ) :NORMAL
+ë„ê¹¨ë¹„ íŠ¹ìˆ˜ ë¬¸ìž .SPEC    .SPC   (ê¸€ê¼´ëª…, íŒŒì¼ëª…, ì œìž‘ìž ë³€ê²½) :NORMAL
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 
-                                ±Û²Ã ¸ðÀ½ #002
+                                ê¸€ê¼´ ëª¨ìŒ #002
 
-                               - 4. ±Û²Ã ¸ñ·Ï -
-
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
-
-<Âü°í>
-
-   1. »ïº¸ Æ¯¼ö ¹®ÀÚ¿¡¼­ 0¹ø, (126¹ø,) 127¹ø ±ÛÀÚ´Â »ç¿ëÇÏÁö ¸¶½Ê½Ã¿À.  DOS
-      ¿¡¼­ »ç¿ëÀ» ±ÝÇÏ°í ÀÖ´Â ÄÚµå¿Í °ãÄ¡±â ¶§¹®ÀÔ´Ï´Ù.
-
-   2. »ê(ÆÇ¹øÈ£ 1.044 ÀÌÇÏ) µîÀÇ  ÀÏºÎ ÇÁ·Î±×·¥¿¡¼­´Â  µµ±úºñ Çü½ÄÀÇ ±Û²ÃÀ»
-      »ç¿ëÇÏ´Âµ¥ ÀÖ¾î ´Ù¼Ò Àß¸øÀÌ ÀÖ±â ¶§¹®¿¡  ÀÏºÎ ±ÛÀÚ°¡ ÀÌ»óÇÏ°Ô º¸ÀÏ ¼ö
-      µµ ÀÖ½À´Ï´Ù.
-
-   3. ±Û²ÃÀÇ ÃâÃ³´Â  Á¦°¡ ±× ±Û²ÃÀ» ¾òÀº ÇÁ·Î±×·¥  ¶Ç´Â »ç¶÷À¸·Î Àû¾úÀ¸¹Ç·Î
-      ±× ±Û²ÃÀÇ ¿ø·¡ ÃâÃ³¿Í´Â ´Ù¸¦ ¼öµµ ÀÖ½À´Ï´Ù. ÀÌ·± °æ¿ì ¿ÇÀº Á¤º¸¸¦  ÁÖ
-      ½Ã±â ¹Ù¶ø´Ï´Ù.
-
-   4. º»ÀÎÀÇ ±Û²ÃÀÌ ¾Æ´Ñ °ÍÀº ±× ¸íÄªÀÌ ¿ø·¡¿Í ´Ù¼Ò Â÷ÀÌ°¡ ÀÖÀ» ¼öµµ ÀÖ½À´Ï
-      ´Ù. ÀÌ·± °æ¿ì ¿ÇÀº Á¤º¸¸¦ ÁÖ½Ã±â ¹Ù¶ø´Ï´Ù.
-
-   5. »ïº¸ Æ¯¼ö ¹®ÀÚ ÄÚµå¸¦ °¡Àå Á¤È®È÷ µû¸£°í ÀÖ´Â ±Û²ÃµéÀÔ´Ï´Ù.
-
-   6. ±Û²ÃÀÇ ³ª¿­ ¼ø¼­´Â ¿ì¼± ÃâÃ³º°·Î °¡³ª´Ù, ¾ËÆÄºª ¼ø,  ±×¸®°í ¸Ç ³¡¿¡´Â
-      ÀúÀÇ °ÍÀÌ¶ó°í ÇÒ ¼ö ÀÖ´Â °ÍµéÀ» ³ª¿­ÇßÀ¸¸ç, ¶Ç °¢°¢Àº ´Ù½Ã °¡³ª´Ù, ¾Ë
-      ÆÄºª ¼øÀ¸·Î ³ª¿­µÇ¾î ÀÖ½À´Ï´Ù.
+                               - 4. ê¸€ê¼´ ëª©ë¡ -
 
 --------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 
-<ÁÖÀÇ »çÇ×> - '#', '*', '+'Ç¥°¡ ºÙ¾îÀÖ´Â ±Û²Ã¿¡ ÇÑ ÇÔ
+<ì°¸ê³ >
 
-   1. Á¦°¡ ¸¸µç ±Û²ÃÀÇ ÆÄÀÏÀÌ¸§Àº ¹Ù²ÙÁö ¸»¾Æ ÁÖ½Ã±æ ¹Ù¶ø´Ï´Ù.
+   1. ì‚¼ë³´ íŠ¹ìˆ˜ ë¬¸ìžì—ì„œ 0ë²ˆ, (126ë²ˆ,) 127ë²ˆ ê¸€ìžëŠ” ì‚¬ìš©í•˜ì§€ ë§ˆì‹­ì‹œì˜¤.  DOS
+      ì—ì„œ ì‚¬ìš©ì„ ê¸ˆí•˜ê³  ìžˆëŠ” ì½”ë“œì™€ ê²¹ì¹˜ê¸° ë•Œë¬¸ìž…ë‹ˆë‹¤.
 
-   2. ¿©±â ÀÖ´Â ±Û²ÃÀ» »ç¿ëÇÏ½Ç ¶§¿¡´Â ÃâÃ³¸¦ ¹àÇô ÁÖ½Ê½Ã¿À.
+   2. ì‚°(íŒë²ˆí˜¸ 1.044 ì´í•˜) ë“±ì˜  ì¼ë¶€ í”„ë¡œê·¸ëž¨ì—ì„œëŠ”  ë„ê¹¨ë¹„ í˜•ì‹ì˜ ê¸€ê¼´ì„
+      ì‚¬ìš©í•˜ëŠ”ë° ìžˆì–´ ë‹¤ì†Œ ìž˜ëª»ì´ ìžˆê¸° ë•Œë¬¸ì—  ì¼ë¶€ ê¸€ìžê°€ ì´ìƒí•˜ê²Œ ë³´ì¼ ìˆ˜
+      ë„ ìžˆìŠµë‹ˆë‹¤.
 
-   3. º»ÀÎÀÇ Çã°¡ ¾øÀÌ »ó¿ë ÇÁ·Î±×·¥¿¡¼­ »ç¿ëÇÏÁö ¸¶½Ê½Ã¿À.
+   3. ê¸€ê¼´ì˜ ì¶œì²˜ëŠ”  ì œê°€ ê·¸ ê¸€ê¼´ì„ ì–»ì€ í”„ë¡œê·¸ëž¨  ë˜ëŠ” ì‚¬ëžŒìœ¼ë¡œ ì ì—ˆìœ¼ë¯€ë¡œ
+      ê·¸ ê¸€ê¼´ì˜ ì›ëž˜ ì¶œì²˜ì™€ëŠ” ë‹¤ë¥¼ ìˆ˜ë„ ìžˆìŠµë‹ˆë‹¤. ì´ëŸ° ê²½ìš° ì˜³ì€ ì •ë³´ë¥¼  ì£¼
+      ì‹œê¸° ë°”ëžë‹ˆë‹¤.
+
+   4. ë³¸ì¸ì˜ ê¸€ê¼´ì´ ì•„ë‹Œ ê²ƒì€ ê·¸ ëª…ì¹­ì´ ì›ëž˜ì™€ ë‹¤ì†Œ ì°¨ì´ê°€ ìžˆì„ ìˆ˜ë„ ìžˆìŠµë‹ˆ
+      ë‹¤. ì´ëŸ° ê²½ìš° ì˜³ì€ ì •ë³´ë¥¼ ì£¼ì‹œê¸° ë°”ëžë‹ˆë‹¤.
+
+   5. ì‚¼ë³´ íŠ¹ìˆ˜ ë¬¸ìž ì½”ë“œë¥¼ ê°€ìž¥ ì •í™•ížˆ ë”°ë¥´ê³  ìžˆëŠ” ê¸€ê¼´ë“¤ìž…ë‹ˆë‹¤.
+
+   6. ê¸€ê¼´ì˜ ë‚˜ì—´ ìˆœì„œëŠ” ìš°ì„  ì¶œì²˜ë³„ë¡œ ê°€ë‚˜ë‹¤, ì•ŒíŒŒë²³ ìˆœ,  ê·¸ë¦¬ê³  ë§¨ ëì—ëŠ”
+      ì €ì˜ ê²ƒì´ë¼ê³  í•  ìˆ˜ ìžˆëŠ” ê²ƒë“¤ì„ ë‚˜ì—´í–ˆìœ¼ë©°, ë˜ ê°ê°ì€ ë‹¤ì‹œ ê°€ë‚˜ë‹¤, ì•Œ
+      íŒŒë²³ ìˆœìœ¼ë¡œ ë‚˜ì—´ë˜ì–´ ìžˆìŠµë‹ˆë‹¤.
 
 --------------------------------------------------------------------------------
- #: ¼ø¼ö Ã¢ÀÛ ±Û²Ã
 
- *: ´Ù¸¥ °÷¿¡¼­ ÈùÆ®¸¦ ¾ò¾î ¸¸µç ±Û²Ã
+<ì£¼ì˜ ì‚¬í•­> - '#', '*', '+'í‘œê°€ ë¶™ì–´ìžˆëŠ” ê¸€ê¼´ì— í•œ í•¨
 
- +: ´Ù¸¥ »ç¶÷ÀÇ ±Û²ÃÀ» ÃæºÐÈ÷ ¼Õº» ±Û²Ã
+   1. ì œê°€ ë§Œë“  ê¸€ê¼´ì˜ íŒŒì¼ì´ë¦„ì€ ë°”ê¾¸ì§€ ë§ì•„ ì£¼ì‹œê¸¸ ë°”ëžë‹ˆë‹¤.
 
- .: ´Ù¸¥ »ç¶÷ÀÇ ±Û²ÃÀ» Á¶±Ý ´ÙµëÀº ±Û²Ã
+   2. ì—¬ê¸° ìžˆëŠ” ê¸€ê¼´ì„ ì‚¬ìš©í•˜ì‹¤ ë•Œì—ëŠ” ì¶œì²˜ë¥¼ ë°í˜€ ì£¼ì‹­ì‹œì˜¤.
 
-  : ´Ù¸¥ »ç¶÷ÀÇ ±Û²Ã
+   3. ë³¸ì¸ì˜ í—ˆê°€ ì—†ì´ ìƒìš© í”„ë¡œê·¸ëž¨ì—ì„œ ì‚¬ìš©í•˜ì§€ ë§ˆì‹­ì‹œì˜¤.
+
 --------------------------------------------------------------------------------
-ÀÌ¸§              ÆÄÀÏÀÌ¸§       ºñ°í                          ¿¾ ÆÄÀÏÀÌ¸§
+ #: ìˆœìˆ˜ ì°½ìž‘ ê¸€ê¼´
+
+ *: ë‹¤ë¥¸ ê³³ì—ì„œ ížŒíŠ¸ë¥¼ ì–»ì–´ ë§Œë“  ê¸€ê¼´
+
+ +: ë‹¤ë¥¸ ì‚¬ëžŒì˜ ê¸€ê¼´ì„ ì¶©ë¶„ížˆ ì†ë³¸ ê¸€ê¼´
+
+ .: ë‹¤ë¥¸ ì‚¬ëžŒì˜ ê¸€ê¼´ì„ ì¡°ê¸ˆ ë‹¤ë“¬ì€ ê¸€ê¼´
+
+  : ë‹¤ë¥¸ ì‚¬ëžŒì˜ ê¸€ê¼´
+--------------------------------------------------------------------------------
+ì´ë¦„              íŒŒì¼ì´ë¦„       ë¹„ê³                           ì˜› íŒŒì¼ì´ë¦„
 ................................................................................
 
-<ÇÑ±Û ±Û²Ã>
+<í•œê¸€ ê¸€ê¼´>
 
 ---               MY      .HAN   ???
-°ß»ù¹°°íµñÃ¼      HANGSMGO.HAN   ??? (¾Æ·¡¾Æ ÇÑ±Û 2.0¿ë ±Û²Ã ÆÄÀÏ¿¡¼­)
-±Ã¼­Ã¼            HANGS   .HAN   ??? (    //    <- ¾Æ·¡¾Æ ÇÑ±Û¿ë ºñÆ®¸Ê)
-µðÀÚÀÎÃ¼          HANDG   .HAN   ???
+ê²¬ìƒ˜ë¬¼ê³ ë”•ì²´      HANGSMGO.HAN   ??? (ì•„ëž˜ì•„ í•œê¸€ 2.0ìš© ê¸€ê¼´ íŒŒì¼ì—ì„œ)
+ê¶ì„œì²´            HANGS   .HAN   ??? (    //    <- ì•„ëž˜ì•„ í•œê¸€ìš© ë¹„íŠ¸ë§µ)
+ë””ìžì¸ì²´          HANDG   .HAN   ???
 
-°­ ¸íÁ¶Ã¼         PED     .HAN   °­ ¿¡µðÅÍ, ¹ÚÈ£¿ë
+ê°• ëª…ì¡°ì²´         PED     .HAN   ê°• ì—ë””í„°, ë°•í˜¸ìš©
 
-¼öÁÝÀ½Ã¼          HANSHY  .HAN   °ûÅÃÁ¾(HiTEL ID:saenaegi)
-Ã»°³±¸¸®Ã¼       .HANFROG .HAN   °ûÅÃÁ¾ (±Û²Ã Çü½Ä Â÷ÀÌ·Î º¯Çü)
-Å°´Ù¸®Ã¼          HANKDR  .HAN   °ûÅÃÁ¾
+ìˆ˜ì¤ìŒì²´          HANSHY  .HAN   ê³½íƒì¢…(HiTEL ID:saenaegi)
+ì²­ê°œêµ¬ë¦¬ì²´       .HANFROG .HAN   ê³½íƒì¢… (ê¸€ê¼´ í˜•ì‹ ì°¨ì´ë¡œ ë³€í˜•)
+í‚¤ë‹¤ë¦¬ì²´          HANKDR  .HAN   ê³½íƒì¢…
 
-»¡·¡Ã¼            HANHO   .HAN   ±è±âÁ¤
-Àü¼­Ã¼1          .HANJS1  .HAN   ±è±âÁ¤
+ë¹¨ëž˜ì²´            HANHO   .HAN   ê¹€ê¸°ì •
+ì „ì„œì²´1          .HANJS1  .HAN   ê¹€ê¸°ì •
 
-Èê¸²Ã¼            HANCH   .HAN   ±è¼ö±¸
+í˜ë¦¼ì²´            HANCH   .HAN   ê¹€ìˆ˜êµ¬
 
-ÆÄµµÃ¼            HPADO   .HAN   ±è¿µ¼®(HiTEL ID:eleman)
+íŒŒë„ì²´            HPADO   .HAN   ê¹€ì˜ì„(HiTEL ID:eleman)
 
----               HANKYH  .HAN   ±è¿µÈ­(HiTEL ID:kyh242)
+---               HANKYH  .HAN   ê¹€ì˜í™”(HiTEL ID:kyh242)
 
-°¡´Â´Þ²Ã          H02     .HAN   ±èÁßÅÂ(HiTEL ID:hangul), ÀÌ¾ß±â 6.0
-±½Àº´Þ²Ã          H01     .HAN   ±èÁßÅÂ
-´ë³ª¹«²Ã          H14     .HAN   ±èÁßÅÂ
-µÕ±Ù¸ð²Ã          H04     .HAN   ±èÁßÅÂ
-¸þ²Ã              H06     .HAN   ±èÁßÅÂ
-¹ö±Ý´Þ²Ã          H03     .HAN   ±èÁßÅÂ
-»¸À½²Ã            H09     .HAN   ±èÁßÅÂ
-»ßÄ§²Ã            H11     .HAN   ±èÁßÅÂ
-ÀÛÀº»ßÄ§²Ã        H12     .HAN   ±èÁßÅÂ
-ÁßÅÂ¼¼¸ð²Ã        H08     .HAN   ±èÁßÅÂ
-ÂªÀºµÕ±Ù¸ð²Ã      H05     .HAN   ±èÁßÅÂ
-ÂªÀº¸þ²Ã          H07     .HAN   ±èÁßÅÂ
-ÂªÀº»¸À½²Ã        H10     .HAN   ±èÁßÅÂ
-Æ÷°·²Ã            H15     .HAN   ±èÁßÅÂ
-Ç®ÀÙ²Ã            H13     .HAN   ±èÁßÅÂ
+ê°€ëŠ”ë‹¬ê¼´          H02     .HAN   ê¹€ì¤‘íƒœ(HiTEL ID:hangul), ì´ì•¼ê¸° 6.0
+êµµì€ë‹¬ê¼´          H01     .HAN   ê¹€ì¤‘íƒœ
+ëŒ€ë‚˜ë¬´ê¼´          H14     .HAN   ê¹€ì¤‘íƒœ
+ë‘¥ê·¼ëª¨ê¼´          H04     .HAN   ê¹€ì¤‘íƒœ
+ë«¼ê¼´              H06     .HAN   ê¹€ì¤‘íƒœ
+ë²„ê¸ˆë‹¬ê¼´          H03     .HAN   ê¹€ì¤‘íƒœ
+ë»—ìŒê¼´            H09     .HAN   ê¹€ì¤‘íƒœ
+ì‚ì¹¨ê¼´            H11     .HAN   ê¹€ì¤‘íƒœ
+ìž‘ì€ì‚ì¹¨ê¼´        H12     .HAN   ê¹€ì¤‘íƒœ
+ì¤‘íƒœì„¸ëª¨ê¼´        H08     .HAN   ê¹€ì¤‘íƒœ
+ì§§ì€ë‘¥ê·¼ëª¨ê¼´      H05     .HAN   ê¹€ì¤‘íƒœ
+ì§§ì€ë«¼ê¼´          H07     .HAN   ê¹€ì¤‘íƒœ
+ì§§ì€ë»—ìŒê¼´        H10     .HAN   ê¹€ì¤‘íƒœ
+í¬ê°¬ê¼´            H15     .HAN   ê¹€ì¤‘íƒœ
+í’€ìžŽê¼´            H13     .HAN   ê¹€ì¤‘íƒœ
 
-¼Ò¶óÃ¼            HANSORA .HAN   ³²Á¤¿ì(HiTEL ID:amuguna)
+ì†Œë¼ì²´            HANSORA .HAN   ë‚¨ì •ìš°(HiTEL ID:amuguna)
 
-µµ±úºñ °íµñÃ¼     DKBGOTH .HAN   µµ±úºñ ÇÑ±Û
-µµ±úºñ µð³ª·ç     HANKBC  .HAN   µµ±úºñ ÇÑ±Û 3.30, Á¶ÃáÇü
-µµ±úºñ µð³ª·ç 2  +HANKBC2 .HAN                                 :DKBDINA
+ë„ê¹¨ë¹„ ê³ ë”•ì²´     DKBGOTH .HAN   ë„ê¹¨ë¹„ í•œê¸€
+ë„ê¹¨ë¹„ ë””ë‚˜ë£¨     HANKBC  .HAN   ë„ê¹¨ë¹„ í•œê¸€ 3.30, ì¡°ì¶˜í˜•
+ë„ê¹¨ë¹„ ë””ë‚˜ë£¨ 2  +HANKBC2 .HAN                                 :DKBDINA
 
----               HANSAM  .HAN   ¹Ù¶÷
+---               HANSAM  .HAN   ë°”ëžŒ
 
-ÇÑ¼®ºÀÃ¼         .SANHSB  .HAN   ¹Ú±ÔÇö(HiTEL ID:magicbk), »ê  :HSB-844
-ÀÓ²©Á¤Ã¼         .SANIGJ  .HAN   ¹Ú±ÔÇö, »ê
+í•œì„ë´‰ì²´         .SANHSB  .HAN   ë°•ê·œí˜„(HiTEL ID:magicbk), ì‚°  :HSB-844
+ìž„êº½ì •ì²´         .SANIGJ  .HAN   ë°•ê·œí˜„, ì‚°
 
-°­Ã¶Ã¼            HANIRON .HAN   ¹ÚÈ£¼º(HiTEL ID: p3h1s4)
-°­Ã¶Ã¼1          .HANIRON1.HAN   ¹ÚÈ£¼º, Àü ¹öÀüÀÇ °­Ã¶Ã¼
-°­Ã¶Ã¼2           HANIRON1.HAN   ¹ÚÈ£¼º
+ê°•ì² ì²´            HANIRON .HAN   ë°•í˜¸ì„±(HiTEL ID: p3h1s4)
+ê°•ì² ì²´1          .HANIRON1.HAN   ë°•í˜¸ì„±, ì „ ë²„ì „ì˜ ê°•ì² ì²´
+ê°•ì² ì²´2           HANIRON1.HAN   ë°•í˜¸ì„±
 
-»ïº¸ °íµñÃ¼       TGGOTH  .HAN   »ïº¸ ÇÑ±Û Ä«µå                :TGCAR
+ì‚¼ë³´ ê³ ë”•ì²´       TGGOTH  .HAN   ì‚¼ë³´ í•œê¸€ ì¹´ë“œ                :TGCAR
 
----               A_FONT  .HAN   ¼­¿ë¿ø(HiTEL ID:yongwon)
+---               A_FONT  .HAN   ì„œìš©ì›(HiTEL ID:yongwon)
 
-±×¸²Ã¼            HANGRIM .HAN   ¼­Á¤È£
+ê·¸ë¦¼ì²´            HANGRIM .HAN   ì„œì •í˜¸
 
-¸ð¶õÃ¼            HANMORAN.HAN   ¼±µ¿¼ú
+ëª¨ëž€ì²´            HANMORAN.HAN   ì„ ë™ìˆ 
 
-¾È»ùÃ¼            HANANSAM.HAN   ¼Û¼ºÈÆ(Dentist·Î HiTEL¿¡)
+ì•ˆìƒ˜ì²´            HANANSAM.HAN   ì†¡ì„±í›ˆ(Dentistë¡œ HiTELì—)
 
-½Å¼±¸íÁ¶Ã¼        HANSSMJ .HAN   ½Åµ¿¼±(HiTEL ID:shin1234)
-½Åµ¿¼± µð³ª·çÃ¼   HANDINA .HAN   ½Åµ¿¼±
-½Åµ¿¼± ¼¼³ª·çÃ¼   HANSENA .HAN   ½Åµ¿¼±
+ì‹ ì„ ëª…ì¡°ì²´        HANSSMJ .HAN   ì‹ ë™ì„ (HiTEL ID:shin1234)
+ì‹ ë™ì„  ë””ë‚˜ë£¨ì²´   HANDINA .HAN   ì‹ ë™ì„ 
+ì‹ ë™ì„  ì„¸ë‚˜ë£¨ì²´   HANSENA .HAN   ì‹ ë™ì„ 
 
-ÇÑ±Û ¸íÁ¶Ã¼      .HANMY   .HAN   ¾Æ·¡¾Æ ÇÑ±Û                   :HANGUL
-¼Õ±Û¾¾Ã¼         .HANPL2  .HAN                                 :SON4
+í•œê¸€ ëª…ì¡°ì²´      .HANMY   .HAN   ì•„ëž˜ì•„ í•œê¸€                   :HANGUL
+ì†ê¸€ì”¨ì²´         .HANPL2  .HAN                                 :SON4
 
-°¡´Â»ù¹°          HANGNSM .HAN   À¯½Â¹«(HiTEL ID:ysmoo)
-±½Àº»ù¹°          HANGSM  .HAN   À¯½Â¹«
-Å«»õ°íµñÃ¼        HANSG   .HAN   À¯½Â¹«
+ê°€ëŠ”ìƒ˜ë¬¼          HANGNSM .HAN   ìœ ìŠ¹ë¬´(HiTEL ID:ysmoo)
+êµµì€ìƒ˜ë¬¼          HANGSM  .HAN   ìœ ìŠ¹ë¬´
+í°ìƒˆê³ ë”•ì²´        HANSG   .HAN   ìœ ìŠ¹ë¬´
 
-±ä°íµñÃ¼          GG      .HAN   À±Èñ¿Á(HiTEL ID:13906526)
-¼Ò¸ÁÃ¼            SOMANG  .HAN   À±Èñ¿Á
-Èñ¸ÁÃ¼            HEEMANG .HAN   À±Èñ¿Á
+ê¸´ê³ ë”•ì²´          GG      .HAN   ìœ¤í¬ì˜¥(HiTEL ID:13906526)
+ì†Œë§ì²´            SOMANG  .HAN   ìœ¤í¬ì˜¥
+í¬ë§ì²´            HEEMANG .HAN   ìœ¤í¬ì˜¥
 
-»ç°úÃ¼            APPLE   .HAN   ÀÌº´µµ´Ô(?, HiTEL ID: leebd)
-Èê¸²Ã¼           .SON3    .HAN   ÀÌº´µµ´Ô Á¦°ø
-±½Àº ÆÄµµÃ¼      .PADO_B  .HAN   ÀÌº´µµ´Ô Á¦°ø                 :SON1
+ì‚¬ê³¼ì²´            APPLE   .HAN   ì´ë³‘ë„ë‹˜(?, HiTEL ID: leebd)
+í˜ë¦¼ì²´           .SON3    .HAN   ì´ë³‘ë„ë‹˜ ì œê³µ
+êµµì€ íŒŒë„ì²´      .PADO_B  .HAN   ì´ë³‘ë„ë‹˜ ì œê³µ                 :SON1
 
-±½ÀºÃ¼            IYG     .HAN   ÀÌ¾ß±â                        :IFNT2
-ÀÌ¾ß±â »ï¹ú½ÄÃ¼   IYGSBS  .HAN   ÀÌ¾ß±â                        :ISAM
-ÀÌ¾ß±â ¾È»ó¼öÃ¼   IYGASS  .HAN   ÀÌ¾ß±â (±èÀÎÃ¶Ã¼ º¯Çü ÃßÁ¤)   :IAN
-±½ÀºÃ¼ 2         +IYG2    .HAN                                 :II
-±½ÀºÃ¼ 3         +IYG_Y   .HAN                                 :I-Y
+êµµì€ì²´            IYG     .HAN   ì´ì•¼ê¸°                        :IFNT2
+ì´ì•¼ê¸° ì‚¼ë²Œì‹ì²´   IYGSBS  .HAN   ì´ì•¼ê¸°                        :ISAM
+ì´ì•¼ê¸° ì•ˆìƒìˆ˜ì²´   IYGASS  .HAN   ì´ì•¼ê¸° (ê¹€ì¸ì² ì²´ ë³€í˜• ì¶”ì •)   :IAN
+êµµì€ì²´ 2         +IYG2    .HAN                                 :II
+êµµì€ì²´ 3         +IYG_Y   .HAN                                 :I-Y
 
-±ä»ùÃ¼            HANGINSM.HAN   ÀÌÁ¾ÈÆ
-±Ã¼­Èê¸²Ã¼        HANGHS  .HAN   ÀÌÁ¾ÈÆ (Ãµ¸®¾È ÇÑ/ÄÄ)
+ê¸´ìƒ˜ì²´            HANGINSM.HAN   ì´ì¢…í›ˆ
+ê¶ì„œí˜ë¦¼ì²´        HANGHS  .HAN   ì´ì¢…í›ˆ (ì²œë¦¬ì•ˆ í•œ/ì»´)
 
-°¡´Â°¡À» ÇÑ±ÛÃ¼   HPRCS   .HAN   ÀÌÈ®¿µ(HiTEL ID:TELETALK), ÇÁ¸°¼¼½º ¸ÞÀÌÄ¿
-ÀÌ¾ß±â°íµñÃ¼      HIYGGD2 .HAN   ÀÌÈ®¿µ, ÀÌ¾ß±â ±½ÀºÃ¼ º¯Çü
+ê°€ëŠ”ê°€ì„ í•œê¸€ì²´   HPRCS   .HAN   ì´í™•ì˜(HiTEL ID:TELETALK), í”„ë¦°ì„¸ìŠ¤ ë©”ì´ì»¤
+ì´ì•¼ê¸°ê³ ë”•ì²´      HIYGGD2 .HAN   ì´í™•ì˜, ì´ì•¼ê¸° êµµì€ì²´ ë³€í˜•
 
-¿µÈ­Ã¼            HANYH   .HAN   Àå¿µÈ­(HiTEL ID:hayeun)
-   µî·Ï¹øÈ£: 93-00112-SB-F-016, °úÇÐ±â¼ú¿ø ½Ã½ºÅÛ °øÇÐ¿¬±¸¼Ò ÆùÆ®°³¹ßº¸±Þ¼¾ÅÍ
+ì˜í™”ì²´            HANYH   .HAN   ìž¥ì˜í™”(HiTEL ID:hayeun)
+   ë“±ë¡ë²ˆí˜¸: 93-00112-SB-F-016, ê³¼í•™ê¸°ìˆ ì› ì‹œìŠ¤í…œ ê³µí•™ì—°êµ¬ì†Œ í°íŠ¸ê°œë°œë³´ê¸‰ì„¼í„°
 
-°¡·Î¼öÃ¼          HANGRS  .HAN   Àü¿µ±â(HiTEL ID:GAROSOO)
+ê°€ë¡œìˆ˜ì²´          HANGRS  .HAN   ì „ì˜ê¸°(HiTEL ID:GAROSOO)
 
----               TBG2    .HAN   ÅÂ¹é ÇÑ±Û
----               TBG4    .HAN   ÅÂ¹é ÇÑ±Û
-ÅÂ¹é ÇÊ±âÃ¼       TBPIL   .HAN   ÅÂ¹é ÇÑ±Û                     :HANSON
-ÅÂ¹é ÈÆ¹ÎÁ¤À½Ã¼   TBGHM   .HAN   ÅÂ¹é ÇÑ±Û
-ÅÂ¹é ÇÊ±âÃ¼ 2    .TBPIL2  .HAN                                 :HANSON2
+---               TBG2    .HAN   íƒœë°± í•œê¸€
+---               TBG4    .HAN   íƒœë°± í•œê¸€
+íƒœë°± í•„ê¸°ì²´       TBPIL   .HAN   íƒœë°± í•œê¸€                     :HANSON
+íƒœë°± í›ˆë¯¼ì •ìŒì²´   TBGHM   .HAN   íƒœë°± í•œê¸€
+íƒœë°± í•„ê¸°ì²´ 2    .TBPIL2  .HAN                                 :HANSON2
 
----               APPLE00 .HAN   TESTCOMM, ÀÌº´µµ(HiTEL ID: leebd)
-±½Àº °íµñÃ¼       GOBO00  .HAN   TESTCOMM
-±½Àº µÕ±Ù°íµñÃ¼   GOBO03  .HAN   TESTCOMM
-°¡´Â °íµñÃ¼       GOTH00  .HAN   TESTCOMM
-º¸ÅëÃ¼            NORMAL  .HAN   TESTCOMM
-¹Ý¸íÁ¶Ã¼          MYNR00  .HAN   TESTCOMM
-±½Àº Àå½Ä°íµñÃ¼   GMBO00  .HAN   TESTCOMM
-°¡´Â Àå½Ä°íµñÃ¼   GMTH00  .HAN   TESTCOMM
-±½Àº »ù¹°Ã¼       SABO00  .HAN   TESTCOMM
-°¡´Â±èÀÎÃ¶Ã¼      SATH00  .HAN   TESTCOMM
-º¸ÅëÃ¼ 2         .NORMAL2 .HAN   TESTCOMM
-±èÀÎÃ¶Ã¼         .KIC     .HAN                                 :SAM
-±èÀÎÃ¶Ã¼ 2       +KIC2    .HAN                                 :SAM2
-Àå½Ä °íµñÃ¼      +GAM     .HAN
+---               APPLE00 .HAN   TESTCOMM, ì´ë³‘ë„(HiTEL ID: leebd)
+êµµì€ ê³ ë”•ì²´       GOBO00  .HAN   TESTCOMM
+êµµì€ ë‘¥ê·¼ê³ ë”•ì²´   GOBO03  .HAN   TESTCOMM
+ê°€ëŠ” ê³ ë”•ì²´       GOTH00  .HAN   TESTCOMM
+ë³´í†µì²´            NORMAL  .HAN   TESTCOMM
+ë°˜ëª…ì¡°ì²´          MYNR00  .HAN   TESTCOMM
+êµµì€ ìž¥ì‹ê³ ë”•ì²´   GMBO00  .HAN   TESTCOMM
+ê°€ëŠ” ìž¥ì‹ê³ ë”•ì²´   GMTH00  .HAN   TESTCOMM
+êµµì€ ìƒ˜ë¬¼ì²´       SABO00  .HAN   TESTCOMM
+ê°€ëŠ”ê¹€ì¸ì² ì²´      SATH00  .HAN   TESTCOMM
+ë³´í†µì²´ 2         .NORMAL2 .HAN   TESTCOMM
+ê¹€ì¸ì² ì²´         .KIC     .HAN                                 :SAM
+ê¹€ì¸ì² ì²´ 2       +KIC2    .HAN                                 :SAM2
+ìž¥ì‹ ê³ ë”•ì²´      +GAM     .HAN
 
-º¹¼± ¸íÁ¶Ã¼       H_DMYONG.HAN   ÇÏ³ª¸® C ¶óÀÌºê·¯¸®, ÀÌ È®¿µ(HiTEL ID:TELETALK)
-soft              H_SOFT  .HAN   ÇÏ³ª¸® C ¶óÀÌºê·¯¸®
+ë³µì„  ëª…ì¡°ì²´       H_DMYONG.HAN   í•˜ë‚˜ë¦¬ C ë¼ì´ë¸ŒëŸ¬ë¦¬, ì´ í™•ì˜(HiTEL ID:TELETALK)
+soft              H_SOFT  .HAN   í•˜ë‚˜ë¦¬ C ë¼ì´ë¸ŒëŸ¬ë¦¬
 
-º×ÆæÃ¼            HANHYES .HAN   ÇÏÇý¼º(HiTEL ID:hahs)
-¾î¸°ÀÌÃ¼         .HANCHD  .HAN   ÇÏÇý¼º <- ¼­Á¤È£ <- ÇãÀÎ±¸
-Çý¼ºÃ¼            HANHCH  .HAN   ÇÏÇý¼º
+ë¶“íŽœì²´            HANHYES .HAN   í•˜í˜œì„±(HiTEL ID:hahs)
+ì–´ë¦°ì´ì²´         .HANCHD  .HAN   í•˜í˜œì„± <- ì„œì •í˜¸ <- í—ˆì¸êµ¬
+í˜œì„±ì²´            HANHCH  .HAN   í•˜í˜œì„±
 
-Å¹Ã¼              TAK     .HAN   ÇÑ±âÅÃ(HiTEL ID:hankitak)
+íƒì²´              TAK     .HAN   í•œê¸°íƒ(HiTEL ID:hankitak)
 
-ÇÑ¸Þ °íµñÃ¼       HMGOTH  .HAN   ÇÑ¸Þ ÇÑ±Û                     :GOTHIC,HM-GOTH
-ÇÑ¸Þ °¡´Â º»¹®Ã¼  HMSYSTH .HAN   ÇÑ¸Þ ÇÑ±Û                     :HANME-TH,HM-THIN
-ÇÑ¸Þ º»¹®Ã¼       HMSYS   .HAN   ÇÑ¸Þ ÇÑ±Û                     :HANME
-ÇÑ¸Þ »ù¹°Ã¼       HMSAM   .HAN   ÇÑ¸Þ ÇÑ±Û                     :HM-SAM
+í•œë©” ê³ ë”•ì²´       HMGOTH  .HAN   í•œë©” í•œê¸€                     :GOTHIC,HM-GOTH
+í•œë©” ê°€ëŠ” ë³¸ë¬¸ì²´  HMSYSTH .HAN   í•œë©” í•œê¸€                     :HANME-TH,HM-THIN
+í•œë©” ë³¸ë¬¸ì²´       HMSYS   .HAN   í•œë©” í•œê¸€                     :HANME
+í•œë©” ìƒ˜ë¬¼ì²´       HMSAM   .HAN   í•œë©” í•œê¸€                     :HM-SAM
 
-³«¼­Ã¼            HANNAK  .HAN   ÇãÀÎ±¸
-µÕ±Ù°íµñÃ¼        HANDGO  .HAN   ÇãÀÎ±¸
-¹Ù´ÙÃ¼            HANVADA .HAN   ÇãÀÎ±¸
-¹ÙÀÌÆ®Ã¼          HANBYTE .HAN   ÇãÀÎ±¸
-»ù¹°°íµñÃ¼        HANSMGO .HAN   ÇãÀÎ±¸->°ûÅÃÁ¾
-»ù¹°ÀÌ»ÛÃ¼       .HANSPN  .HAN   ÇãÀÎ±¸
-¼Õ±ÛÀÌ»ÛÃ¼        HANIPN  .HAN   ÇãÀÎ±¸->¼­Á¤È£
-¿¹»Û¼Õ±ÛÃ¼        HANEAPN .HAN   ÇãÀÎ±¸
-Á¤¼­Ã¼            HANPW   .HAN   ÇãÀÎ±¸
-Å«±Û°íµñÃ¼       .HANBIGO .HAN   ÇãÀÎ±¸
-ÇÑ±ÃÃ¼            HANGUNG .HAN   ÇãÀÎ±¸
-ÇÑ¸Þ»ù¹°Ã¼        HANHMSM .HAN   ÇãÀÎ±¸
-ÇãÀÎ±¸ ¾È»ó¼öÃ¼   HANAHN  .HAN   ÇãÀÎ±¸ <- ÀÌ¾ß±â ¾È»ó¼öÃ¼
-Èê¸²°íµñÃ¼        HANHLGO .HAN   ÇãÀÎ±¸
+ë‚™ì„œì²´            HANNAK  .HAN   í—ˆì¸êµ¬
+ë‘¥ê·¼ê³ ë”•ì²´        HANDGO  .HAN   í—ˆì¸êµ¬
+ë°”ë‹¤ì²´            HANVADA .HAN   í—ˆì¸êµ¬
+ë°”ì´íŠ¸ì²´          HANBYTE .HAN   í—ˆì¸êµ¬
+ìƒ˜ë¬¼ê³ ë”•ì²´        HANSMGO .HAN   í—ˆì¸êµ¬->ê³½íƒì¢…
+ìƒ˜ë¬¼ì´ìœì²´       .HANSPN  .HAN   í—ˆì¸êµ¬
+ì†ê¸€ì´ìœì²´        HANIPN  .HAN   í—ˆì¸êµ¬->ì„œì •í˜¸
+ì˜ˆìœì†ê¸€ì²´        HANEAPN .HAN   í—ˆì¸êµ¬
+ì •ì„œì²´            HANPW   .HAN   í—ˆì¸êµ¬
+í°ê¸€ê³ ë”•ì²´       .HANBIGO .HAN   í—ˆì¸êµ¬
+í•œê¶ì²´            HANGUNG .HAN   í—ˆì¸êµ¬
+í•œë©”ìƒ˜ë¬¼ì²´        HANHMSM .HAN   í—ˆì¸êµ¬
+í—ˆì¸êµ¬ ì•ˆìƒìˆ˜ì²´   HANAHN  .HAN   í—ˆì¸êµ¬ <- ì´ì•¼ê¸° ì•ˆìƒìˆ˜ì²´
+í˜ë¦¼ê³ ë”•ì²´        HANHLGO .HAN   í—ˆì¸êµ¬
 
-²¿¸¶Ã¼           *MINI    .HAN                                 :HMAPPLE
-±â¿ïÀÓÃ¼         #SLEEP   .HAN
-±â¿ïÀÓÃ¼ 2       #SLEEP2  .HAN
-´Þ¸®¸¸µêÃ¼       *DALLY   .HAN   ´Þ¸®¸¸µê ·Î°í
-µð³ª·çÃ¼         *DINARU  .HAN   ³×¸ð ²ËÂù °íµñÃ¼              :GOTH
-¸íÁ¶Ã¼           *HAN     .HAN   ´õ ¼¼¹ÐÇÏ°Ô ¸¸µé¾îÁø ±Û²Ã
-»ù¸íÁ¶Ã¼         *SAMM    .HAN                                 :SAM-M
-¼­±â 2400Ã¼      *AD24    .HAN
-½º·¯ÁüÃ¼         *SLANT   .HAN
-Áß°£°íµñÃ¼       *MIDDLE  .HAN                                 :MINI
-Áß°£°íµñÃ¼ 2     *MIDDLE2 .HAN
-½ÅÆÇº»Ã¼         *PANBON  .HAN                                 :OULD
-½ÅÆÇº»Ã¼ 2       *PANBON2 .HAN                                 :OULD
-½ÅÆÇº»Ã¼ 3       *PANBON3 .HAN                                 :HOULD
-PCÃ¼             *PC      .HAN   ÆÛ½º³ÎÄÄÇ»ÅÍÁöÀÇ ¿¾ ·Î°í
-ÆÄ¿ï·ç½ºÃ¼       #PAULUS  .HAN
-ÆúÃ¼             #PAUL    .HAN
-Å°ÀÛÀºÃ¼         #LOW     .HAN                                 :CL
+ê¼¬ë§ˆì²´           *MINI    .HAN                                 :HMAPPLE
+ê¸°ìš¸ìž„ì²´         #SLEEP   .HAN
+ê¸°ìš¸ìž„ì²´ 2       #SLEEP2  .HAN
+ë‹¬ë¦¬ë§Œë“¦ì²´       *DALLY   .HAN   ë‹¬ë¦¬ë§Œë“¦ ë¡œê³ 
+ë””ë‚˜ë£¨ì²´         *DINARU  .HAN   ë„¤ëª¨ ê½‰ì°¬ ê³ ë”•ì²´              :GOTH
+ëª…ì¡°ì²´           *HAN     .HAN   ë” ì„¸ë°€í•˜ê²Œ ë§Œë“¤ì–´ì§„ ê¸€ê¼´
+ìƒ˜ëª…ì¡°ì²´         *SAMM    .HAN                                 :SAM-M
+ì„œê¸° 2400ì²´      *AD24    .HAN
+ìŠ¤ëŸ¬ì§ì²´         *SLANT   .HAN
+ì¤‘ê°„ê³ ë”•ì²´       *MIDDLE  .HAN                                 :MINI
+ì¤‘ê°„ê³ ë”•ì²´ 2     *MIDDLE2 .HAN
+ì‹ íŒë³¸ì²´         *PANBON  .HAN                                 :OULD
+ì‹ íŒë³¸ì²´ 2       *PANBON2 .HAN                                 :OULD
+ì‹ íŒë³¸ì²´ 3       *PANBON3 .HAN                                 :HOULD
+PCì²´             *PC      .HAN   í¼ìŠ¤ë„ì»´í“¨í„°ì§€ì˜ ì˜› ë¡œê³ 
+íŒŒìš¸ë£¨ìŠ¤ì²´       #PAULUS  .HAN
+í´ì²´             #PAUL    .HAN
+í‚¤ìž‘ì€ì²´         #LOW     .HAN                                 :CL
 
-<¿µ¾î ±Û²Ã>
+<ì˜ì–´ ê¸€ê¼´>
 
----               A_FONT  .ENG   ??? (¾î¶² ÇÏÀÌÅÚ »ç¿ëÀÚ, ¿ø·¡´Â ÀÌ¾ß±â¿ë)
+---               A_FONT  .ENG   ??? (ì–´ë–¤ í•˜ì´í…” ì‚¬ìš©ìž, ì›ëž˜ëŠ” ì´ì•¼ê¸°ìš©)
 
-¿µ¹®±½Àº¸Ú²Ã      E1      .ENG   ±èÁßÅÂ(HiTEL ID:hangul), ÀÌ¾ß±â 6.0
-¿µ¹®µÕ±Ù¸ð²Ã      E2      .ENG   ±èÁßÅÂ
-¿µ¹®¹ö±Ý¸Ú²Ã      E3      .ENG   ±èÁßÅÂ
-¿µ¹®¹ö±Ý¸Ú²Ã2     E4_2    .ENG   ±èÁßÅÂ
-¿µ¹®¹ö±Ý¸Ú²Ã3     E4_3    .ENG   ±èÁßÅÂ
-¿µ¹®ÁßÅÂ±ï±â²Ã    E6      .ENG   ±èÁßÅÂ
-¿µ¹®ÁßÅÂ¼¼¸ð²Ã    E8      .ENG   ±èÁßÅÂ
-¿µ¹®Æ´¸Ú²Ã        E5      .ENG   ±èÁßÅÂ
+ì˜ë¬¸êµµì€ë©‹ê¼´      E1      .ENG   ê¹€ì¤‘íƒœ(HiTEL ID:hangul), ì´ì•¼ê¸° 6.0
+ì˜ë¬¸ë‘¥ê·¼ëª¨ê¼´      E2      .ENG   ê¹€ì¤‘íƒœ
+ì˜ë¬¸ë²„ê¸ˆë©‹ê¼´      E3      .ENG   ê¹€ì¤‘íƒœ
+ì˜ë¬¸ë²„ê¸ˆë©‹ê¼´2     E4_2    .ENG   ê¹€ì¤‘íƒœ
+ì˜ë¬¸ë²„ê¸ˆë©‹ê¼´3     E4_3    .ENG   ê¹€ì¤‘íƒœ
+ì˜ë¬¸ì¤‘íƒœê¹ê¸°ê¼´    E6      .ENG   ê¹€ì¤‘íƒœ
+ì˜ë¬¸ì¤‘íƒœì„¸ëª¨ê¼´    E8      .ENG   ê¹€ì¤‘íƒœ
+ì˜ë¬¸í‹ˆë©‹ê¼´        E5      .ENG   ê¹€ì¤‘íƒœ
 
-Mini 1           .MINI1   .ENG   ±èÇå¼ö (Çü)
-Small            .SMALL   .ENG   ±èÇå¼ö (Çü)
+Mini 1           .MINI1   .ENG   ê¹€í—Œìˆ˜ (í˜•)
+Small            .SMALL   .ENG   ê¹€í—Œìˆ˜ (í˜•)
 
-µµ±úºñ ASCX      .ASCX    .ENG   µµ±úºñ ÇÑ±Û 3.30, Á¶ÃáÇü
-µµ±úºñ ASCY      .ASCY    .ENG   µµ±úºñ ÇÑ±Û 3.30
+ë„ê¹¨ë¹„ ASCX      .ASCX    .ENG   ë„ê¹¨ë¹„ í•œê¸€ 3.30, ì¡°ì¶˜í˜•
+ë„ê¹¨ë¹„ ASCY      .ASCY    .ENG   ë„ê¹¨ë¹„ í•œê¸€ 3.30
 
 MRol             .MROL    .ENG   Many ROLs
 
-San              .SAN     .ENG   »ê
+San              .SAN     .ENG   ì‚°
 
-ÇÑ±Û ÀÌÅÅ¸¯Ã¼     HANITL  .ENG   ¾Æ·¡¾Æ ÇÑ±Û
-ÇÑ±Û ÇÊ±âÃ¼      .HANSC   .ENG   ¾Æ·¡¾Æ ÇÑ±Û                   :PIL1
-Script 2         .HANSC2  .ENG   (±½Àº)                        :PIL1A
-Script 2 Thin    +HANSC2T .ENG   (°¡´Â)                        :PIL1-SCR
+í•œê¸€ ì´íƒ¤ë¦­ì²´     HANITL  .ENG   ì•„ëž˜ì•„ í•œê¸€
+í•œê¸€ í•„ê¸°ì²´      .HANSC   .ENG   ì•„ëž˜ì•„ í•œê¸€                   :PIL1
+Script 2         .HANSC2  .ENG   (êµµì€)                        :PIL1A
+Script 2 Thin    +HANSC2T .ENG   (ê°€ëŠ”)                        :PIL1-SCR
 
-ÀÌ¾ß±â ±½Àº°íµñ  .IYGGGO  .ENG   ÀÌ¾ß±â
-ÀÌ¾ß±â Áø·Î¸¸Ã¼  .IYGJROM .ENG   ÀÌ¾ß±â
+ì´ì•¼ê¸° êµµì€ê³ ë”•  .IYGGGO  .ENG   ì´ì•¼ê¸°
+ì´ì•¼ê¸° ì§„ë¡œë§Œì²´  .IYGJROM .ENG   ì´ì•¼ê¸°
 
-¿µ¹®Á¤ÇüÃ¼       .EGOOD   .ENG   ÀÌÈ®¿µ(HiTEL ID:TELETALK), TsengHi ASCII º¯Çü
-°¡´Â°¡À» ¿µ¹®Ã¼  .EPRCS   .ENG   ÀÌÈ®¿µ, ÇÁ¸°¼¼½º ¸ÞÀÌÄ¿
+ì˜ë¬¸ì •í˜•ì²´       .EGOOD   .ENG   ì´í™•ì˜(HiTEL ID:TELETALK), TsengHi ASCII ë³€í˜•
+ê°€ëŠ”ê°€ì„ ì˜ë¬¸ì²´  .EPRCS   .ENG   ì´í™•ì˜, í”„ë¦°ì„¸ìŠ¤ ë©”ì´ì»¤
 
-ÇÑ¸Þ Countdown   .HMCNT   .ENG   ÇÑ¸Þ ÇÑ±Û                     :CNTDOWN
-ÇÑ¸Þ Microgramma .HMMCR   .ENG   ÇÑ¸Þ ÇÑ±Û                     :MICROGRM
-ÇÑ¸Þ Script      .HMSCR   .ENG   ÇÑ¸Þ ÇÑ±Û                     :SCRIPT
-ÇÑ¸Þ Standard 1  .HMSTD1  .ENG   ÇÑ¸Þ ÇÑ±Û                     :STANDRD1
-ÇÑ¸Þ Standard 2  .HMSTD2  .ENG   ÇÑ¸Þ ÇÑ±Û                     :STANDRD2
-ÇÑ¸Þ Default     .HMDEF   .ENG   ÇÑ¸Þ ÇÑ±Û                     :HANME
-ÇÑ¸Þ             +HM_Y    .ENG                                 :HANME-Y
+í•œë©” Countdown   .HMCNT   .ENG   í•œë©” í•œê¸€                     :CNTDOWN
+í•œë©” Microgramma .HMMCR   .ENG   í•œë©” í•œê¸€                     :MICROGRM
+í•œë©” Script      .HMSCR   .ENG   í•œë©” í•œê¸€                     :SCRIPT
+í•œë©” Standard 1  .HMSTD1  .ENG   í•œë©” í•œê¸€                     :STANDRD1
+í•œë©” Standard 2  .HMSTD2  .ENG   í•œë©” í•œê¸€                     :STANDRD2
+í•œë©” Default     .HMDEF   .ENG   í•œë©” í•œê¸€                     :HANME
+í•œë©”             +HM_Y    .ENG                                 :HANME-Y
 Microgramma 2    +HMMCR_Y .ENG                                 :MCRGRM-Y
 Standard 3       .HMSTD3  .ENG                                 :HM-STD
 
@@ -712,32 +712,32 @@ TsengHi ASCII     TSENGHI .ENG   Tseng VGA/High RAM Dack BIOS
 
 Normal           .NORMAL  .ENG   TESTCOMM
 Roman Normal     .RONR00  .ENG   TESTCOMM
-Roman Bold       .ROBO00  .ENG   TESTCOMM (±½Àº)
-Roman Thin       .ROTH00  .ENG   TESTCOMM (°¡´Â)
+Roman Bold       .ROBO00  .ENG   TESTCOMM (êµµì€)
+Roman Thin       .ROTH00  .ENG   TESTCOMM (ê°€ëŠ”)
 Robo             .ROBO    .ENG   Roman Bold
 
 Trident ASCII     TRIDENT .ENG   Trident VGA BIOS
 
-AD 2400          *AD24    .ENG   AD 2400 (±Û²Ã ³ôÀÌ: 8µµÆ®)
-AD 2400.10       *AD24_10 .ENG   AD 2400 (±Û²Ã ³ôÀÌ: 10µµÆ®)   :AD24
+AD 2400          *AD24    .ENG   AD 2400 (ê¸€ê¼´ ë†’ì´: 8ë„íŠ¸)
+AD 2400.10       *AD24_10 .ENG   AD 2400 (ê¸€ê¼´ ë†’ì´: 10ë„íŠ¸)   :AD24
 Big              *BIG     .ENG
 Bold             *BOLD    .ENG
 Bold Normal      *BOLDNR  .ENG
 Byte             *BYTE    .ENG
 Byte 10          *BYTE10  .ENG                                 :BYTE
 Count            *COUNT   .ENG
-Eart             #EART    .ENG   (±Û²Ã ³ôÀÌ: 8µµÆ®)
-Eart 10          #EART10  .ENG   (±Û²Ã ³ôÀÌ: 10µµÆ®)           :EART
-Flow             *FLOW    .ENG   (±Û²Ã ³ôÀÌ: 8µµÆ®)
-Flow 10          *FLOW10  .ENG   (±Û²Ã ³ôÀÌ: 10µµÆ®)           :FLOW
+Eart             #EART    .ENG   (ê¸€ê¼´ ë†’ì´: 8ë„íŠ¸)
+Eart 10          #EART10  .ENG   (ê¸€ê¼´ ë†’ì´: 10ë„íŠ¸)           :EART
+Flow             *FLOW    .ENG   (ê¸€ê¼´ ë†’ì´: 8ë„íŠ¸)
+Flow 10          *FLOW10  .ENG   (ê¸€ê¼´ ë†’ì´: 10ë„íŠ¸)           :FLOW
 Inbold           #INBOLD  .ENG
 Roman Large      *ROMAN_L .ENG                                 :BIG
 Little           #LITTLE  .ENG
 Middle           *MIDDLE  .ENG
 Mini             *MINI    .ENG
-Royal            *ROYAL   .ENG   Royal II DLX (Apple II+ È£È¯)
-Script           *SCR     .ENG   (°¡´Â)                        :PIL2-SCR
-Script Bold      *SCRBOLD .ENG   (±½Àº)                        :PIL2
+Royal            *ROYAL   .ENG   Royal II DLX (Apple II+ í˜¸í™˜)
+Script           *SCR     .ENG   (ê°€ëŠ”)                        :PIL2-SCR
+Script Bold      *SCRBOLD .ENG   (êµµì€)                        :PIL2
 Semi-Roman       *SEMIROM .ENG                                 :BIG
 Slant            *SLANT   .ENG
 System           *SYS     .ENG
@@ -746,78 +746,77 @@ X-Small          *XSMALL  .ENG
 Zeo              #ZEO     .ENG
 Zorro            #ZORRO   .ENG
 
-<»ïº¸ Æ¯¼ö ¹®ÀÚ ±Û²Ã>
+<ì‚¼ë³´ íŠ¹ìˆ˜ ë¬¸ìž ê¸€ê¼´>
 
-Bold             .BOLD    .SPC   ±èÇå¼ö (Çü)
+Bold             .BOLD    .SPC   ê¹€í—Œìˆ˜ (í˜•)
 
-µµ±úºñ Æ¯¼ö ¹®ÀÚ .SPEC    .SPC   µµ±úºñ ÇÑ±Û 3.30, Á¶ÃáÇü      :NORMAL
+ë„ê¹¨ë¹„ íŠ¹ìˆ˜ ë¬¸ìž .SPEC    .SPC   ë„ê¹¨ë¹„ í•œê¸€ 3.30, ì¡°ì¶˜í˜•      :NORMAL
 
-ÅÂ¹é             .TB      .SPC   ÅÂ¹é ÇÑ±Û
+íƒœë°±             .TB      .SPC   íƒœë°± í•œê¸€
 
-ÀÌ¾ß±â           +IYG_Y   .SPC   Ç¥ÁØ »ïº¸ ÄÚµå¿¡ ¸ÂÃç ¹Ù²Þ    :I-Y
+ì´ì•¼ê¸°           +IYG_Y   .SPC   í‘œì¤€ ì‚¼ë³´ ì½”ë“œì— ë§žì¶° ë°”ê¿ˆ    :I-Y
 
-ÇÏ³ª¸®           .HANARI  .SPC   ÇÏ³ª¸® C ¶óÀÌºê·¯¸®, ÀÌ È®¿µ(HiTEL ID:TELETALK)
+í•˜ë‚˜ë¦¬           .HANARI  .SPC   í•˜ë‚˜ë¦¬ C ë¼ì´ë¸ŒëŸ¬ë¦¬, ì´ í™•ì˜(HiTEL ID:TELETALK)
 
-ÇÑ¸Þ             .HM      .SPC   ÇÑ¸Þ ÇÑ±Û                     :HANME
+í•œë©”             .HM      .SPC   í•œë©” í•œê¸€                     :HANME
 
-Bold 2           *BOLD2   .SPC   ÆÄÀÌÇÁ Çü ±¥¼±
-Bold 3           *BOLD3   .SPC   ºÎµå·´°í ±½Àº ±¥¼±
+Bold 2           *BOLD2   .SPC   íŒŒì´í”„ í˜• ê´˜ì„ 
+Bold 3           *BOLD3   .SPC   ë¶€ë“œëŸ½ê³  êµµì€ ê´˜ì„ 
 Gray 1           #GRAY1   .SPC                                 :YY
 Gray 2           *GRAY2   .SPC                                 :GRAY
-Shadow           *SHADOW  .SPC   ±×¸²ÀÚÃ¼                      :S-BLOCK
-System           *SYS     .SPC   ±âº» ÇüÅÂ
-KS-line          *KSLINE  .SPC   KS±×·¡ÇÈ ¹®ÀÚÇü ±¥¼±          :YG
-Smooth           #SMOOTH  .SPC   ºÎµå·¯¿î ±¥¼±                 :YUN
+Shadow           *SHADOW  .SPC   ê·¸ë¦¼ìžì²´                      :S-BLOCK
+System           *SYS     .SPC   ê¸°ë³¸ í˜•íƒœ
+KS-line          *KSLINE  .SPC   KSê·¸ëž˜í”½ ë¬¸ìží˜• ê´˜ì„           :YG
+Smooth           #SMOOTH  .SPC   ë¶€ë“œëŸ¬ìš´ ê´˜ì„                  :YUN
 Zorro            #ZORRO   .SPC                                 :YY2,PIL
 
-<KS, KSSM ±×·¡ÇÈ ¹®ÀÚ ±Û²Ã>
+<KS, KSSM ê·¸ëž˜í”½ ë¬¸ìž ê¸€ê¼´>
 
-°­                PED     .KSG   °­ ¿¡µðÅÍ, ¹ÚÈ£¿ë
+ê°•                PED     .KSG   ê°• ì—ë””í„°, ë°•í˜¸ìš©
 
-»çÀÓ´ç            SMD     .KSG   »çÀÓ´ç 2.0 µ¥¸ð ¹öÀü
+ì‚¬ìž„ë‹¹            SMD     .KSG   ì‚¬ìž„ë‹¹ 2.0 ë°ëª¨ ë²„ì „
 
-»ê                SAN     .KSG   »ê
+ì‚°                SAN     .KSG   ì‚°
 
-ÀÌ¾ß±â            IYG     .KSG   ÀÌ¾ß±â
+ì´ì•¼ê¸°            IYG     .KSG   ì´ì•¼ê¸°
 
-ÇÑ¸Þ              HM      .KSG   ÇÑ¸Þ ÇÑ±Û
+í•œë©”              HM      .KSG   í•œë©” í•œê¸€
 
 Roman            *ROMAN   .KSG
 Roman Cleary     *ROMAN_C .KSG
 Roman Large      *ROMAN_L .KSG
-Serife           *SERIFE  .KSG   WindowsÀÇ Serife.fonÀ» ÀÀ¿ë
-Yun              *YUN     .KSG   (ÀÛ¾÷Áß)
+Serife           *SERIFE  .KSG   Windowsì˜ Serife.fonì„ ì‘ìš©
+Yun              *YUN     .KSG   (ìž‘ì—…ì¤‘)
 
 --------------------------------------------------------------------------------
-<°°ÀÌ »ç¿ëÇÏ´Â ±Û²ÃÀÇ ¿¹>
+<ê°™ì´ ì‚¬ìš©í•˜ëŠ” ê¸€ê¼´ì˜ ì˜ˆ>
 
-   1. ¸íÁ¶Ã¼              Roman Normal
+   1. ëª…ì¡°ì²´              Roman Normal
 
-   2. ±èÀÎÃ¶Ã¼            Robo
+   2. ê¹€ì¸ì² ì²´            Robo
 
-   3. ¼­±â 2400           AD 2400.10
+   3. ì„œê¸° 2400           AD 2400.10
 
-   4. ½º·¯ÁüÃ¼            Slant
+   4. ìŠ¤ëŸ¬ì§ì²´            Slant
 
-   5. ÀÓ²©Á¤Ã¼            San
+   5. ìž„êº½ì •ì²´            San
 
-   6. ÀÌ¾ß±â ±½ÀºÃ¼       ÀÌ¾ß±â ±½Àº °íµñ
-
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
-
-   >>> ¿¬¶ôÃ³ <<<
-
-   ÇÏÀÌÅÚ ID: pisces
-
-   Ãæ³²´ëÇÐ±³ ÀÚ¿¬°úÇÐ´ëÇÐ
-   Àü»êÇÐ°ú 92ÇÐ¹ø,
-   ±èÀ±¼ö°¡ ¿Ã·È½À´Ï´Ù.
-
-   ±×¸®°í, ÇÏ¼÷»ýÀÌ¹Ç·Î ÁÖ¼Ò¿Í ÀüÈ­¹øÈ£´Â ¹àÈ÷Áö ¾Ê°Ú½À´Ï´Ù.
+   6. ì´ì•¼ê¸° êµµì€ì²´       ì´ì•¼ê¸° êµµì€ ê³ ë”•
 
 --------------------------------------------------------------------------------
-                                                                - À¯¼º¿¡¼­ -
+--------------------------------------------------------------------------------
+
+   >>> ì—°ë½ì²˜ <<<
+
+   í•˜ì´í…” ID: pisces
+
+   
+   ê¹€ìœ¤ìˆ˜ê°€ ì˜¬ë ¸ìŠµë‹ˆë‹¤.
+
+   ê·¸ë¦¬ê³ , í•˜ìˆ™ìƒì´ë¯€ë¡œ ì£¼ì†Œì™€ ì „í™”ë²ˆí˜¸ëŠ” ë°ížˆì§€ ì•Šê² ìŠµë‹ˆë‹¤.
+
+--------------------------------------------------------------------------------
+                                                                - ìœ ì„±ì—ì„œ -
 --------------------------------------------------------------------------------
 
 
